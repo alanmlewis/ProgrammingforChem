@@ -8,12 +8,17 @@ from sklearn.datasets import make_regression
 from sklearn.preprocessing import OneHotEncoder
 
 show_plots = False
-optimize = True
+optimize = False
 
 features = pd.read_excel('aap9112_data_file_s1.xlsx')
 
 for j in features.keys():
 	print(j,len(features[j].unique()))
+	
+features.replace(to_replace='2a, Boronic Acid',value='Boronic Acid',inplace=True)
+features.replace(to_replace='2b, Boronic Ester',value='Boronic Ester',inplace=True)
+features.replace(to_replace='2c, Trifluoroborate',value='Trifluoroborate',inplace=True)
+features.replace(to_replace='2d, Bromide',value='Bromide',inplace=True)
 
 # Values to drop based on box plot analysis below
 features = features.loc[features['Ligand_Short_Hand'] != 'dppf']
@@ -24,7 +29,7 @@ features = features.loc[features['Solvent_1_Short_Hand'] != 'THF_V2']
 features = features.loc[features['Solvent_1_Short_Hand'] != 'MeOH/H2O_V2 9:1']
 features = features.loc[features['Product_Yield_PCT_Area_UV'] != 0.0]
 
-features = features.sample(2000)
+features = features.sample(2000,random_state=1)
 
 yields = features['Product_Yield_PCT_Area_UV'].values
 features = features[['Reactant_1_Name', 'Reactant_2_Name', 'Ligand_Short_Hand', 'Reagent_1_Short_Hand', 'Solvent_1_Short_Hand']]
@@ -35,6 +40,7 @@ for j in features.keys():
 	print(j,len(features[j].unique()))
 
 	box_data = {}
+	print(','.join(features[j].unique()))
 	for i in features[j].unique():
 		idx = np.argwhere(features[j].values == i)
 		box_data[i] = yields[idx].reshape(-1)
@@ -46,9 +52,8 @@ for j in features.keys():
 		ax.set_title(j)
 		ax.set_xticklabels(box_data.keys())
 		plt.show()
-#exit()
 
-features.rename({'Reactant_1_Name': 'Reactant 1', 'Reactant_2_Name': 'Reactant_2', 'Ligand_Short_Hand': 'Ligand', 'Reagent_1_Short_Hand': 'Base', 'Solvent_1_Short_Hand':'Solvent'})
+features.rename(columns={'Reactant_1_Name': 'Reactant 1', 'Reactant_2_Name': 'Reactant 2', 'Ligand_Short_Hand': 'Ligand', 'Reagent_1_Short_Hand': 'Base', 'Solvent_1_Short_Hand':'Solvent'},inplace=True)
 
 features.to_csv('features.csv',index=False)
 np.savetxt('yields.csv',yields)
@@ -62,7 +67,7 @@ y = yields
 
 #-----Define the Machine Learning model-----------------------------------------
 
-model = SVR(C=380,epsilon=1.19,kernel='rbf')
+model = SVR(C=95,epsilon=0.006,kernel='rbf')
 
 #-----Train the model and assess its' prediction accuracy-----------------------
 
@@ -75,15 +80,15 @@ from sklearn.model_selection import RandomizedSearchCV
 # Here for testing purposes, remove before making available to students
 if optimize:
 	param_distributions = {
-		'C': loguniform(0.01, 1000.0),
-		'epsilon': loguniform(0.001, 100.0),
+		'C': loguniform(0.1, 1000.0),
+		'epsilon': loguniform(0.001, 10.0),
 		'kernel': ['linear', 'poly', 'rbf', 'sigmoid']
 	}
 
 	randomized_search = RandomizedSearchCV(
 			estimator = model,
 			param_distributions = param_distributions,
-			n_iter = 1000,
+			n_iter = 100,
 			random_state = 1,
 			verbose = 2
 		)
