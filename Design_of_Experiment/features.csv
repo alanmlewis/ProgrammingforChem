@@ -7,14 +7,14 @@ Reactant 1,Reactant 2,Ligand,Base,Solvent
 6-Bromoquinoline,Boronic Ester,dtbpf,NaHCO3,THF
 6-triflatequinoline,Boronic Acid,P(tBu)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,P(Cy)3,LiOtBu,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaHCO3,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaHCO3,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,CsF,MeOH
 6-Bromoquinoline,Boronic Ester,dtbpf,LiOtBu,DMF
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,Et3N,MeCN
 6-Bromoquinoline,Boronic Acid,XPhos,CsF,MeOH
 6-Iodoquinoline,Boronic Acid,CataCXium A,Et3N,MeOH
 6-Bromoquinoline,Boronic Acid,P(Cy)3,NaHCO3,THF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,NaOH,MeOH
+6-triflatequinoline,Trifluoroborate,P(Ph)3,NaOH,MeOH
 6-triflatequinoline,Trifluoroborate,dtbpf,NaOH,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,dtbpf,No Base,MeCN
@@ -40,33 +40,33 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,CsF,THF
 6-Bromoquinoline,Boronic Ester,P(tBu)3,No Base,DMF
 6-triflatequinoline,Trifluoroborate,CataCXium A,KOH,MeCN
 6-Iodoquinoline,Trifluoroborate,AmPhos,CsF,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,K3PO4,DMF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,K3PO4,DMF
 6-Bromoquinoline,Boronic Ester,P(Cy)3,No Base,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,LiOtBu,DMF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,LiOtBu,DMF
 6-triflatequinoline,Boronic Ester,CataCXium A,CsF,DMF
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,NaOH,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,NaOH,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,NaOH,MeOH
 6-triflatequinoline,Boronic Acid,CataCXium A,NaHCO3,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,NaHCO3,THF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,CsF,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,CsF,DMF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,LiOtBu,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,KOH,DMF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,KOH,DMF
 6-Bromoquinoline,Boronic Acid,P(Cy)3,KOH,DMF
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,NaHCO3,DMF
 6-triflatequinoline,Boronic Acid,P(tBu)3,Et3N,DMF
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,Et3N,THF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,No Base,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,No Base,MeOH
 6-Iodoquinoline,Boronic Acid,SPhos,No Base,THF
 6-triflatequinoline,Trifluoroborate,AmPhos,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,P(tBu)3,NaOH,THF
 6-Bromoquinoline,Boronic Acid,No Ligand,LiOtBu,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,DMF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaHCO3,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,NaHCO3,THF
 6-triflatequinoline,Boronic Acid,XPhos,CsF,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,Et3N,MeCN
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaOH,MeCN
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaOH,MeCN
 6-triflatequinoline,Trifluoroborate,P(tBu)3,LiOtBu,THF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,NaOH,THF
 6-Iodoquinoline,Boronic Acid,AmPhos,No Base,DMF
@@ -75,11 +75,11 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,Et3N,MeCN
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,THF
 6-triflatequinoline,Trifluoroborate,CataCXium A,NaOH,MeOH
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,K3PO4,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,NaHCO3,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,DMF
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,K3PO4,DMF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,NaHCO3,DMF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,DMF
 6-Iodoquinoline,Boronic Acid,CataCXium A,NaHCO3,MeOH
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,KOH,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,KOH,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Acid,P(tBu)3,No Base,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,Et3N,MeOH
@@ -90,7 +90,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,Et3N,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,XPhos,NaHCO3,THF
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,LiOtBu,THF
 6-triflatequinoline,Trifluoroborate,CataCXium A,LiOtBu,DMF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,No Base,DMF
+6-triflatequinoline,Boronic Acid,P(Ph)3,No Base,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,NaOH,MeOH
 6-Iodoquinoline,Trifluoroborate,No Ligand,NaHCO3,THF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,CsF,MeOH
@@ -100,12 +100,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,Et3N,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,CsF,MeOH
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,K3PO4,MeCN
 6-Bromoquinoline,Boronic Acid,CataCXium A,KOH,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaOH,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaOH,DMF
 6-triflatequinoline,Boronic Acid,No Ligand,CsF,MeCN
 6-Iodoquinoline,Trifluoroborate,CataCXium A,Et3N,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,NaOH,THF
 6-Bromoquinoline,Boronic Ester,P(Cy)3,KOH,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,CsF,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,CsF,DMF
 6-Iodoquinoline,Boronic Ester,dtbpf,CsF,MeCN
 6-triflatequinoline,Boronic Ester,P(Cy)3,NaHCO3,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaOH,MeCN
@@ -116,7 +116,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaOH,MeCN
 6-Bromoquinoline,Trifluoroborate,dtbpf,No Base,THF
 6-Bromoquinoline,Boronic Acid,No Ligand,NaHCO3,THF
 6-Iodoquinoline,Boronic Acid,No Ligand,K3PO4,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,No Base,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,No Base,MeCN
 6-Bromoquinoline,Boronic Ester,dtbpf,NaOH,MeOH
 6-Iodoquinoline,Boronic Ester,AmPhos,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,CsF,THF
@@ -136,7 +136,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,KOH,THF
 6-triflatequinoline,Trifluoroborate,No Ligand,No Base,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,Et3N,MeOH
 6-Iodoquinoline,Trifluoroborate,AmPhos,CsF,THF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,CsF,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,CsF,MeOH
 6-quinoline-boronic acid hydrochloride,Bromide,AmPhos,Et3N,MeCN
 6-triflatequinoline,Boronic Ester,AmPhos,K3PO4,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,No Base,MeOH
@@ -166,9 +166,9 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,MeCN
 6-Iodoquinoline,Boronic Acid,XPhos,CsF,THF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,No Base,DMF
 6-Bromoquinoline,Boronic Acid,CataCXium A,NaHCO3,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,CsF,MeOH
+6-triflatequinoline,Boronic Acid,P(Ph)3,CsF,MeOH
 6-Bromoquinoline,Boronic Acid,P(Cy)3,NaOH,MeCN
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,MeOH
+6-triflatequinoline,Trifluoroborate,P(Ph)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,XPhos,KOH,MeCN
 6-Bromoquinoline,Trifluoroborate,AmPhos,Et3N,MeOH
 6-Iodoquinoline,Boronic Ester,XPhos,Et3N,DMF
@@ -180,9 +180,9 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,P(Cy)3,K3PO4,DMF
 6-Iodoquinoline,Trifluoroborate,AmPhos,KOH,MeOH
 6-triflatequinoline,Boronic Ester,No Ligand,KOH,DMF
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,NaHCO3,THF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,NaHCO3,THF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,KOH,MeOH
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,KOH,THF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,KOH,THF
 6-Bromoquinoline,Boronic Ester,dtbpf,NaOH,DMF
 6-Bromoquinoline,Boronic Acid,P(Cy)3,NaHCO3,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,No Base,DMF
@@ -193,17 +193,17 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,dtbpf,NaOH,MeCN
 6-Iodoquinoline,Boronic Acid,SPhos,KOH,DMF
 6-Bromoquinoline,Boronic Acid,dtbpf,CsF,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,CsF,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,CsF,MeCN
 6-Iodoquinoline,Trifluoroborate,No Ligand,No Base,MeCN
 6-Iodoquinoline,Boronic Acid,P(Cy)3,NaHCO3,DMF
 6-triflatequinoline,Trifluoroborate,P(tBu)3,No Base,MeOH
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,CsF,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,CsF,THF
 6-triflatequinoline,Boronic Ester,P(tBu)3,K3PO4,THF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaOH,MeOH
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,K3PO4,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,K3PO4,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,NaOH,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,XPhos,Et3N,THF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,KOH,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,KOH,MeOH
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,NaHCO3,THF
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,LiOtBu,MeCN
 6-Bromoquinoline,Boronic Ester,CataCXium A,Et3N,THF
@@ -211,7 +211,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaOH,MeOH
 6-Iodoquinoline,Boronic Acid,XPhos,K3PO4,THF
 6-Iodoquinoline,Boronic Acid,AmPhos,LiOtBu,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,LiOtBu,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,Et3N,MeOH
+6-Bromoquinoline,Boronic Acid,P(Ph)3,Et3N,MeOH
 6-Bromoquinoline,Trifluoroborate,dtbpf,Et3N,THF
 6-triflatequinoline,Boronic Acid,dtbpf,No Base,MeCN
 6-Iodoquinoline,Boronic Ester,AmPhos,LiOtBu,THF
@@ -219,7 +219,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,LiOtBu,MeCN
 6-triflatequinoline,Boronic Acid,XPhos,K3PO4,DMF
 6-Iodoquinoline,Boronic Acid,dtbpf,KOH,MeOH
 6-Iodoquinoline,Boronic Ester,No Ligand,K3PO4,THF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,NaHCO3,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,NaHCO3,DMF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,Et3N,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,KOH,MeOH
 6-Bromoquinoline,Trifluoroborate,No Ligand,Et3N,DMF
@@ -241,7 +241,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,LiOtBu,MeCN
 6-Bromoquinoline,Boronic Ester,XPhos,NaOH,MeCN
 6-Iodoquinoline,Boronic Ester,P(Cy)3,No Base,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeCN
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,No Base,DMF
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,No Base,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,CsF,MeCN
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,No Base,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,Et3N,MeOH
@@ -257,7 +257,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,Et3N,MeOH
 6-triflatequinoline,Boronic Ester,No Ligand,CsF,DMF
 6-triflatequinoline,Trifluoroborate,P(Cy)3,K3PO4,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,Et3N,DMF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,Et3N,DMF
+6-triflatequinoline,Boronic Acid,P(Ph)3,Et3N,DMF
 6-triflatequinoline,Boronic Acid,dtbpf,NaOH,DMF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,NaOH,THF
 6-Bromoquinoline,Boronic Acid,SPhos,KOH,THF
@@ -286,9 +286,9 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,DMF
 6-Iodoquinoline,Boronic Ester,XPhos,CsF,MeOH
 6-Bromoquinoline,Boronic Ester,XPhos,Et3N,DMF
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,CsF,THF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,No Base,THF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,THF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,DMF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,No Base,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaHCO3,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaOH,DMF
 6-Iodoquinoline,Boronic Acid,CataCXium A,CsF,DMF
 6-triflatequinoline,Boronic Ester,No Ligand,Et3N,DMF
 6-Iodoquinoline,Trifluoroborate,dtbpf,CsF,DMF
@@ -298,14 +298,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,DMF
 6-triflatequinoline,Trifluoroborate,No Ligand,K3PO4,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,KOH,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,KOH,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,Et3N,THF
 6-triflatequinoline,Boronic Ester,P(Cy)3,Et3N,THF
 6-triflatequinoline,Boronic Ester,AmPhos,CsF,DMF
 6-triflatequinoline,Trifluoroborate,P(tBu)3,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Acid,No Ligand,Et3N,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaOH,MeCN
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,LiOtBu,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Ester,AmPhos,Et3N,MeCN
@@ -314,13 +314,13 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Ester,CataCXium A,CsF,THF
 6-Iodoquinoline,Trifluoroborate,dtbpf,NaOH,MeCN
 6-Iodoquinoline,Trifluoroborate,dtbpf,CsF,MeOH
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,Et3N,THF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,Et3N,THF
 6-Iodoquinoline,Boronic Ester,XPhos,KOH,MeCN
 6-Bromoquinoline,Boronic Ester,dtbpf,K3PO4,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,K3PO4,MeCN
+6-triflatequinoline,Boronic Acid,P(Ph)3,K3PO4,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,Et3N,MeCN
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,CsF,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,Et3N,THF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,Et3N,THF
 6-Bromoquinoline,Trifluoroborate,dtbpf,LiOtBu,DMF
 6-Bromoquinoline,Trifluoroborate,XPhos,K3PO4,MeOH
 6-Iodoquinoline,Boronic Ester,P(tBu)3,KOH,THF
@@ -331,7 +331,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,NaOH,MeOH
 6-Bromoquinoline,Boronic Ester,XPhos,LiOtBu,THF
 6-triflatequinoline,Boronic Acid,dtbpf,K3PO4,DMF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaHCO3,MeCN
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaHCO3,MeCN
 6-Iodoquinoline,Trifluoroborate,CataCXium A,LiOtBu,DMF
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,Et3N,THF
 6-Bromoquinoline,Boronic Ester,AmPhos,KOH,MeCN
@@ -341,16 +341,16 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,NaHCO3,THF
 6-triflatequinoline,Boronic Ester,P(tBu)3,CsF,DMF
 6-Bromoquinoline,Trifluoroborate,AmPhos,NaHCO3,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,K3PO4,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,LiOtBu,MeOH
+6-Bromoquinoline,Boronic Acid,P(Ph)3,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Acid,XPhos,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,CataCXium A,NaOH,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,NaHCO3,MeCN
 6-triflatequinoline,Boronic Ester,AmPhos,KOH,DMF
 6-Iodoquinoline,Boronic Acid,P(tBu)3,Et3N,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,K3PO4,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,LiOtBu,DMF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,K3PO4,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,LiOtBu,DMF
 6-Iodoquinoline,Boronic Ester,CataCXium A,No Base,MeOH
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,NaHCO3,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,NaHCO3,MeCN
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,NaOH,MeCN
 6-Bromoquinoline,Boronic Ester,AmPhos,K3PO4,MeOH
 6-triflatequinoline,Trifluoroborate,SPhos,K3PO4,DMF
@@ -391,12 +391,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,CsF,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,K3PO4,MeCN
 6-Iodoquinoline,Boronic Ester,CataCXium A,No Base,THF
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,LiOtBu,MeCN
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,NaOH,THF
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,NaOH,THF
 6-triflatequinoline,Boronic Ester,SPhos,K3PO4,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,CsF,MeCN
 6-Iodoquinoline,Boronic Acid,AmPhos,LiOtBu,THF
 6-Iodoquinoline,Boronic Acid,CataCXium A,NaOH,THF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,LiOtBu,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,AmPhos,Et3N,MeCN
 6-Iodoquinoline,Boronic Ester,dtbpf,NaOH,DMF
 6-Bromoquinoline,Boronic Ester,SPhos,CsF,DMF
@@ -420,10 +420,10 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,CsF,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,No Ligand,LiOtBu,DMF
 6-triflatequinoline,Boronic Acid,SPhos,NaHCO3,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,CsF,MeOH
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,NaOH,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,NaOH,MeCN
 6-triflatequinoline,Trifluoroborate,AmPhos,K3PO4,MeCN
 6-Iodoquinoline,Trifluoroborate,No Ligand,CsF,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,KOH,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,KOH,DMF
 6-Bromoquinoline,Boronic Ester,No Ligand,No Base,THF
 6-triflatequinoline,Boronic Ester,dtbpf,CsF,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,NaHCO3,MeOH
@@ -452,28 +452,28 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,CsF,THF
 6-Bromoquinoline,Boronic Acid,CataCXium A,K3PO4,DMF
 6-triflatequinoline,Boronic Ester,XPhos,NaHCO3,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,Et3N,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,Et3N,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,No Base,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,Et3N,MeOH
+6-Bromoquinoline,Boronic Ester,P(Ph)3,No Base,MeOH
 6-Bromoquinoline,Boronic Acid,P(Cy)3,KOH,THF
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,KOH,DMF
 6-Iodoquinoline,Boronic Ester,AmPhos,No Base,MeCN
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,K3PO4,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,KOH,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,KOH,MeOH
 6-Iodoquinoline,Trifluoroborate,dtbpf,NaHCO3,MeOH
 6-triflatequinoline,Trifluoroborate,P(tBu)3,NaOH,MeOH
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,NaOH,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,NaOH,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,K3PO4,DMF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,KOH,DMF
 6-triflatequinoline,Boronic Acid,P(Cy)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,No Ligand,No Base,MeCN
 6-Bromoquinoline,Boronic Ester,SPhos,LiOtBu,THF
 6-triflatequinoline,Trifluoroborate,XPhos,Et3N,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaOH,DMF
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaOH,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,K3PO4,MeOH
 6-Bromoquinoline,Boronic Acid,No Ligand,NaHCO3,MeCN
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,Et3N,MeOH
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,No Base,MeOH
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,No Base,MeCN
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,No Base,MeCN
 6-Bromoquinoline,Boronic Ester,XPhos,NaOH,THF
 6-Bromoquinoline,Trifluoroborate,No Ligand,KOH,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,CsF,MeCN
@@ -507,7 +507,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,DMF
 6-Iodoquinoline,Trifluoroborate,AmPhos,KOH,THF
 6-triflatequinoline,Trifluoroborate,P(tBu)3,No Base,THF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,Et3N,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,CsF,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,CsF,THF
 6-quinoline-boronic acid hydrochloride,Bromide,SPhos,CsF,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,CsF,MeOH
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,NaHCO3,MeOH
@@ -518,7 +518,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,DMF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,NaOH,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,KOH,MeOH
 6-Bromoquinoline,Trifluoroborate,No Ligand,Et3N,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,Et3N,DMF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,Et3N,DMF
 6-triflatequinoline,Boronic Acid,CataCXium A,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,No Base,MeCN
 6-Iodoquinoline,Boronic Ester,AmPhos,CsF,MeOH
@@ -530,14 +530,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,No Base,MeCN
 6-triflatequinoline,Boronic Acid,CataCXium A,NaHCO3,THF
 6-triflatequinoline,Boronic Acid,AmPhos,K3PO4,MeOH
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,CsF,MeOH
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,K3PO4,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,K3PO4,MeCN
 6-Bromoquinoline,Boronic Ester,XPhos,KOH,THF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,Et3N,DMF
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,NaHCO3,MeCN
 6-triflatequinoline,Boronic Ester,No Ligand,LiOtBu,DMF
 6-Iodoquinoline,Boronic Acid,CataCXium A,LiOtBu,DMF
 6-Bromoquinoline,Boronic Ester,CataCXium A,K3PO4,DMF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,NaOH,MeCN
+6-Iodoquinoline,Boronic Ester,P(Ph)3,NaOH,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,K3PO4,MeCN
 6-Iodoquinoline,Boronic Acid,No Ligand,CsF,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,Et3N,THF
@@ -546,7 +546,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,Et3N,THF
 6-Bromoquinoline,Boronic Ester,XPhos,NaHCO3,MeOH
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,K3PO4,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,No Base,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,K3PO4,THF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,K3PO4,THF
 6-triflatequinoline,Boronic Ester,XPhos,K3PO4,MeOH
 6-Bromoquinoline,Boronic Acid,P(Cy)3,LiOtBu,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,Et3N,THF
@@ -555,16 +555,16 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,Et3N,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,CsF,MeCN
 6-Bromoquinoline,Boronic Acid,No Ligand,KOH,MeOH
 6-Iodoquinoline,Boronic Acid,P(tBu)3,No Base,THF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,MeOH
 6-triflatequinoline,Trifluoroborate,No Ligand,K3PO4,THF
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,K3PO4,THF
 6-Bromoquinoline,Boronic Ester,CataCXium A,LiOtBu,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,K3PO4,THF
 6-triflatequinoline,Boronic Acid,P(Cy)3,NaOH,MeOH
 6-triflatequinoline,Boronic Acid,P(tBu)3,KOH,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,KOH,MeCN
+6-Bromoquinoline,Boronic Acid,P(Ph)3,KOH,MeCN
 6-triflatequinoline,Trifluoroborate,P(Cy)3,CsF,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,No Base,DMF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,No Base,DMF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,KOH,MeOH
 6-Iodoquinoline,Trifluoroborate,XPhos,NaHCO3,MeOH
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,NaOH,THF
@@ -578,12 +578,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,MeOH
 6-quinoline-boronic acid hydrochloride,Bromide,P(Cy)3,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Acid,No Ligand,No Base,THF
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,NaHCO3,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,THF
 6-triflatequinoline,Boronic Acid,AmPhos,No Base,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,NaOH,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,No Base,DMF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,NaOH,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,No Base,DMF
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,No Base,MeOH
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,THF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,NaHCO3,THF
 6-triflatequinoline,Boronic Acid,P(tBu)3,CsF,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,K3PO4,DMF
 6-Iodoquinoline,Boronic Ester,No Ligand,No Base,MeCN
@@ -594,11 +594,11 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,LiOtBu,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,No Base,MeOH
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,NaOH,DMF
 6-triflatequinoline,Boronic Acid,SPhos,CsF,MeOH
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,Et3N,MeCN
+6-triflatequinoline,Boronic Ester,P(Ph)3,Et3N,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,P(o-Tol)3,NaHCO3,DMF
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,K3PO4,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,LiOtBu,MeCN
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,K3PO4,THF
+6-triflatequinoline,Boronic Ester,P(Ph)3,K3PO4,THF
 6-Bromoquinoline,Boronic Ester,No Ligand,Et3N,THF
 6-Bromoquinoline,Boronic Ester,No Ligand,Et3N,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,No Base,MeCN
@@ -608,7 +608,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,NaHCO3,MeOH
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,LiOtBu,DMF
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,KOH,THF
 6-Bromoquinoline,Boronic Ester,P(tBu)3,K3PO4,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,LiOtBu,THF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,LiOtBu,THF
 6-triflatequinoline,Trifluoroborate,P(tBu)3,NaHCO3,DMF
 6-triflatequinoline,Boronic Ester,SPhos,No Base,MeCN
 6-triflatequinoline,Boronic Acid,SPhos,CsF,MeCN
@@ -631,8 +631,8 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,K3PO4,THF
 6-Iodoquinoline,Boronic Acid,P(tBu)3,No Base,DMF
 6-Iodoquinoline,Boronic Acid,XPhos,NaOH,DMF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,NaOH,MeCN
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,NaHCO3,THF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,KOH,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,NaHCO3,THF
+6-triflatequinoline,Boronic Acid,P(Ph)3,KOH,DMF
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,NaHCO3,MeCN
 6-triflatequinoline,Boronic Ester,CataCXium A,NaOH,DMF
 6-triflatequinoline,Trifluoroborate,AmPhos,LiOtBu,DMF
@@ -641,7 +641,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,K3PO4,THF
 6-triflatequinoline,Boronic Acid,P(tBu)3,KOH,MeOH
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,KOH,THF
 6-triflatequinoline,Boronic Acid,No Ligand,K3PO4,THF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,CataCXium A,NaHCO3,MeCN
 6-Bromoquinoline,Boronic Acid,dtbpf,NaOH,THF
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,LiOtBu,MeOH
@@ -664,9 +664,9 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,CsF,MeOH
 6-Bromoquinoline,Boronic Acid,dtbpf,No Base,THF
 6-Bromoquinoline,Boronic Acid,XPhos,NaOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,K3PO4,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,Et3N,THF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,Et3N,THF
 6-Iodoquinoline,Boronic Acid,dtbpf,K3PO4,THF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,K3PO4,MeCN
+6-triflatequinoline,Trifluoroborate,P(Ph)3,K3PO4,MeCN
 6-triflatequinoline,Boronic Acid,No Ligand,NaOH,MeOH
 6-triflatequinoline,Boronic Ester,dtbpf,LiOtBu,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,XPhos,K3PO4,MeCN
@@ -681,7 +681,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,K3PO4,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,K3PO4,MeOH
 6-triflatequinoline,Trifluoroborate,CataCXium A,No Base,MeCN
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,K3PO4,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,K3PO4,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,K3PO4,DMF
 6-Bromoquinoline,Boronic Ester,SPhos,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,SPhos,NaOH,THF
 6-triflatequinoline,Boronic Ester,No Ligand,No Base,MeCN
@@ -690,7 +690,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,K3PO4,MeOH
 6-triflatequinoline,Boronic Acid,P(Cy)3,Et3N,MeOH
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,CsF,DMF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,LiOtBu,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,NaHCO3,MeCN
+6-Iodoquinoline,Boronic Ester,P(Ph)3,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Acid,No Ligand,KOH,MeOH
 6-Iodoquinoline,Boronic Ester,P(Cy)3,No Base,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,LiOtBu,MeCN
@@ -698,9 +698,9 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,K3PO4,MeOH
 6-Iodoquinoline,Boronic Ester,CataCXium A,K3PO4,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,CsF,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,K3PO4,MeCN
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,LiOtBu,DMF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,LiOtBu,DMF
 6-Iodoquinoline,Boronic Ester,CataCXium A,CsF,MeCN
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,Et3N,DMF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,Et3N,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,CsF,THF
 6-Iodoquinoline,Boronic Ester,P(tBu)3,NaHCO3,DMF
 6-Bromoquinoline,Boronic Ester,AmPhos,Et3N,MeOH
@@ -734,10 +734,10 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,KOH,MeCN
 6-triflatequinoline,Trifluoroborate,SPhos,K3PO4,MeCN
 6-Iodoquinoline,Boronic Ester,SPhos,KOH,MeOH
 6-triflatequinoline,Trifluoroborate,CataCXium A,No Base,MeOH
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,Et3N,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,Et3N,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,No Ligand,NaOH,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,KOH,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,KOH,DMF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,KOH,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,KOH,DMF
 6-triflatequinoline,Trifluoroborate,XPhos,NaOH,DMF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,No Base,THF
 6-Iodoquinoline,Trifluoroborate,dtbpf,LiOtBu,THF
@@ -746,33 +746,33 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,Et3N,MeCN
 6-triflatequinoline,Trifluoroborate,XPhos,NaOH,THF
 6-Bromoquinoline,Boronic Acid,dtbpf,Et3N,DMF
 6-triflatequinoline,Boronic Acid,dtbpf,Et3N,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,K3PO4,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,K3PO4,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,CsF,DMF
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,Et3N,THF
 6-Bromoquinoline,Boronic Acid,P(Cy)3,K3PO4,MeOH
 6-triflatequinoline,Boronic Ester,CataCXium A,NaOH,THF
 6-triflatequinoline,Boronic Acid,XPhos,No Base,DMF
 6-Bromoquinoline,Trifluoroborate,SPhos,KOH,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,LiOtBu,THF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,No Ligand,NaHCO3,MeOH
 6-triflatequinoline,Boronic Ester,XPhos,No Base,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,NaOH,MeOH
 6-Bromoquinoline,Boronic Ester,No Ligand,CsF,THF
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,NaHCO3,MeOH
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,NaHCO3,MeOH
 6-Iodoquinoline,Trifluoroborate,AmPhos,K3PO4,MeOH
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,NaOH,THF
+6-triflatequinoline,Boronic Ester,P(Ph)3,NaOH,THF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,LiOtBu,THF
 6-Bromoquinoline,Trifluoroborate,dtbpf,K3PO4,DMF
 6-Iodoquinoline,Trifluoroborate,No Ligand,No Base,THF
 6-Bromoquinoline,Boronic Ester,dtbpf,Et3N,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,NaHCO3,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,LiOtBu,MeCN
+6-Bromoquinoline,Boronic Ester,P(Ph)3,LiOtBu,MeCN
 6-triflatequinoline,Boronic Ester,XPhos,Et3N,MeCN
 6-triflatequinoline,Boronic Acid,AmPhos,K3PO4,THF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,Et3N,DMF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,Et3N,DMF
 6-triflatequinoline,Trifluoroborate,P(Cy)3,KOH,MeOH
 6-triflatequinoline,Trifluoroborate,XPhos,K3PO4,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,KOH,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,KOH,THF
 6-triflatequinoline,Trifluoroborate,No Ligand,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Acid,AmPhos,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,CataCXium A,NaHCO3,MeOH
@@ -792,14 +792,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,CsF,THF
 6-triflatequinoline,Boronic Acid,P(tBu)3,No Base,THF
 6-triflatequinoline,Trifluoroborate,dtbpf,LiOtBu,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,Et3N,DMF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,K3PO4,MeOH
+6-Iodoquinoline,Boronic Ester,P(Ph)3,K3PO4,MeOH
 6-Iodoquinoline,Trifluoroborate,XPhos,Et3N,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,KOH,MeOH
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,KOH,DMF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,LiOtBu,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,KOH,THF
 6-Bromoquinoline,Trifluoroborate,SPhos,No Base,THF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,K3PO4,THF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,K3PO4,THF
 6-Bromoquinoline,Boronic Acid,dtbpf,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Acid,CataCXium A,No Base,MeOH
 6-Iodoquinoline,Boronic Ester,CataCXium A,LiOtBu,THF
@@ -835,10 +835,10 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,LiOtBu,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,K3PO4,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,THF
 6-triflatequinoline,Boronic Acid,CataCXium A,KOH,THF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,LiOtBu,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,dtbpf,Et3N,MeOH
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,LiOtBu,MeCN
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,CsF,MeCN
+6-triflatequinoline,Boronic Acid,P(Ph)3,CsF,MeCN
 6-Bromoquinoline,Trifluoroborate,AmPhos,No Base,MeOH
 6-Bromoquinoline,Trifluoroborate,SPhos,LiOtBu,DMF
 6-Iodoquinoline,Boronic Acid,dtbpf,LiOtBu,THF
@@ -860,7 +860,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,THF
 6-triflatequinoline,Trifluoroborate,CataCXium A,K3PO4,THF
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,Et3N,MeOH
 6-Bromoquinoline,Boronic Ester,XPhos,LiOtBu,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaOH,MeOH
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaOH,MeOH
 6-quinoline-boronic acid hydrochloride,Bromide,P(o-Tol)3,K3PO4,MeCN
 6-triflatequinoline,Trifluoroborate,dtbpf,K3PO4,DMF
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,K3PO4,THF
@@ -874,7 +874,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,THF
 6-Iodoquinoline,Boronic Acid,AmPhos,CsF,MeOH
 6-Iodoquinoline,Boronic Acid,SPhos,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,No Ligand,K3PO4,DMF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,NaOH,MeCN
+6-triflatequinoline,Trifluoroborate,P(Ph)3,NaOH,MeCN
 6-Bromoquinoline,Trifluoroborate,SPhos,CsF,MeCN
 6-Bromoquinoline,Trifluoroborate,SPhos,K3PO4,MeCN
 6-triflatequinoline,Boronic Acid,AmPhos,CsF,THF
@@ -885,14 +885,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,Et3N,MeCN
 6-triflatequinoline,Boronic Ester,SPhos,CsF,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,KOH,MeCN
 6-Bromoquinoline,Trifluoroborate,XPhos,Et3N,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaOH,THF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,No Base,THF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaOH,THF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,No Base,THF
 6-Iodoquinoline,Trifluoroborate,SPhos,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,P(tBu)3,Et3N,MeCN
 6-triflatequinoline,Boronic Ester,AmPhos,No Base,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,LiOtBu,THF
 6-Iodoquinoline,Boronic Acid,P(Cy)3,No Base,MeCN
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,No Base,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,No Base,MeOH
 6-triflatequinoline,Trifluoroborate,dtbpf,NaHCO3,MeCN
 6-triflatequinoline,Boronic Acid,No Ligand,CsF,MeOH
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,LiOtBu,MeCN
@@ -917,7 +917,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,MeCN
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,CsF,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,Et3N,THF
 6-Iodoquinoline,Boronic Acid,SPhos,NaHCO3,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,No Base,THF
+6-triflatequinoline,Boronic Acid,P(Ph)3,No Base,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,NaOH,MeCN
 6-triflatequinoline,Trifluoroborate,XPhos,KOH,THF
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,LiOtBu,MeOH
@@ -925,7 +925,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,MeCN
 6-triflatequinoline,Boronic Acid,SPhos,LiOtBu,DMF
 6-triflatequinoline,Boronic Ester,AmPhos,KOH,THF
 6-triflatequinoline,Boronic Acid,dtbpf,CsF,MeOH
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaOH,THF
 6-Bromoquinoline,Boronic Acid,SPhos,CsF,DMF
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,CsF,MeCN
 6-triflatequinoline,Boronic Ester,P(Cy)3,KOH,DMF
@@ -936,17 +936,17 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,MeCN
 6-triflatequinoline,Trifluoroborate,P(tBu)3,Et3N,THF
 6-Iodoquinoline,Boronic Acid,SPhos,Et3N,DMF
 6-Iodoquinoline,Trifluoroborate,No Ligand,Et3N,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,K3PO4,THF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,K3PO4,THF
 6-Quinolineboronic acid pinacol ester,Bromide,XPhos,Et3N,MeCN
-6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3 ,NaHCO3,DMF
+6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3,NaHCO3,DMF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,NaHCO3,DMF
 6-Iodoquinoline,Boronic Acid,P(Cy)3,Et3N,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,KOH,MeOH
 6-quinoline-boronic acid hydrochloride,Bromide,XPhos,CsF,MeCN
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,NaOH,DMF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,NaOH,DMF
 6-Iodoquinoline,Trifluoroborate,dtbpf,K3PO4,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,K3PO4,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,CsF,MeCN
+6-Iodoquinoline,Boronic Ester,P(Ph)3,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,No Ligand,KOH,DMF
 6-triflatequinoline,Boronic Ester,SPhos,KOH,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,Et3N,THF
@@ -959,7 +959,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,K3PO4,MeOH
 6-Iodoquinoline,Boronic Acid,P(Cy)3,LiOtBu,THF
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,NaOH,MeCN
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,KOH,DMF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,K3PO4,THF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,K3PO4,THF
 6-triflatequinoline,Boronic Acid,CataCXium A,KOH,DMF
 6-quinoline-boronic acid hydrochloride,Bromide,P(o-Tol)3,CsF,MeCN
 6-triflatequinoline,Boronic Acid,No Ligand,CsF,DMF
@@ -973,7 +973,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,K3PO4,MeOH
 6-triflatequinoline,Boronic Acid,No Ligand,K3PO4,MeCN
 6-Bromoquinoline,Boronic Acid,XPhos,CsF,THF
 6-triflatequinoline,Trifluoroborate,No Ligand,KOH,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,KOH,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,KOH,MeCN
 6-triflatequinoline,Trifluoroborate,XPhos,NaOH,MeOH
 6-quinoline-boronic acid hydrochloride,Bromide,dtbpf,NaHCO3,MeCN
 6-triflatequinoline,Boronic Acid,No Ligand,NaHCO3,MeOH
@@ -992,18 +992,18 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,No Base,THF
 6-triflatequinoline,Boronic Ester,dtbpf,K3PO4,THF
 6-triflatequinoline,Boronic Acid,P(tBu)3,LiOtBu,MeCN
 6-triflatequinoline,Boronic Acid,CataCXium A,NaOH,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaHCO3,THF
 6-quinoline-boronic acid hydrochloride,Bromide,XPhos,CsF,DMF
 6-triflatequinoline,Boronic Ester,P(tBu)3,KOH,THF
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,LiOtBu,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaHCO3,MeOH
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,LiOtBu,MeOH
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaHCO3,MeOH
 6-triflatequinoline,Boronic Acid,No Ligand,K3PO4,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,Et3N,MeOH
 6-Bromoquinoline,Boronic Acid,P(Cy)3,No Base,DMF
 6-Iodoquinoline,Boronic Ester,No Ligand,NaHCO3,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,KOH,MeOH
 6-Iodoquinoline,Boronic Acid,P(tBu)3,No Base,MeCN
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,No Base,THF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,No Base,THF
 6-quinoline-boronic acid hydrochloride,Bromide,P(Cy)3,NaOH,DMF
 6-Bromoquinoline,Boronic Acid,dtbpf,KOH,MeCN
 6-triflatequinoline,Trifluoroborate,No Ligand,NaOH,DMF
@@ -1035,7 +1035,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,CsF,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,CsF,MeOH
 6-Iodoquinoline,Boronic Ester,XPhos,LiOtBu,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,NaHCO3,MeCN
+6-Bromoquinoline,Boronic Ester,P(Ph)3,NaHCO3,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,CataCXium A,CsF,THF
 6-triflatequinoline,Boronic Ester,AmPhos,KOH,MeCN
@@ -1054,7 +1054,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,K3PO4,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,dtbpf,KOH,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,CsF,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,KOH,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,CsF,THF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,CsF,THF
 6-Bromoquinoline,Boronic Acid,dtbpf,NaHCO3,DMF
 6-Bromoquinoline,Boronic Ester,XPhos,LiOtBu,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,NaHCO3,DMF
@@ -1065,18 +1065,18 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,KOH,MeOH
 6-Bromoquinoline,Boronic Acid,CataCXium A,KOH,MeOH
 6-triflatequinoline,Trifluoroborate,XPhos,Et3N,MeCN
 6-triflatequinoline,Trifluoroborate,AmPhos,KOH,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaHCO3,THF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaHCO3,THF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,NaOH,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,NaHCO3,MeOH
+6-Bromoquinoline,Boronic Ester,P(Ph)3,NaHCO3,MeOH
 6-triflatequinoline,Trifluoroborate,dtbpf,CsF,THF
 6-triflatequinoline,Trifluoroborate,AmPhos,LiOtBu,THF
 6-quinoline-boronic acid hydrochloride,Bromide,CataCXium A,CsF,MeCN
-6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3 ,CsF,DMF
+6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3,CsF,DMF
 6-Iodoquinoline,Boronic Acid,XPhos,K3PO4,MeOH
 6-triflatequinoline,Trifluoroborate,No Ligand,KOH,MeCN
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,NaOH,MeCN
 6-Bromoquinoline,Boronic Ester,P(Cy)3,K3PO4,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,Et3N,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,Et3N,MeOH
 6-triflatequinoline,Boronic Ester,P(Cy)3,NaOH,THF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,CsF,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,No Base,DMF
@@ -1085,7 +1085,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,Et3N,MeCN
 6-Iodoquinoline,Boronic Ester,No Ligand,Et3N,DMF
 6-Iodoquinoline,Trifluoroborate,No Ligand,K3PO4,THF
 6-Bromoquinoline,Boronic Acid,CataCXium A,K3PO4,MeOH
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaOH,MeOH
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,CsF,MeOH
 6-Bromoquinoline,Boronic Ester,XPhos,NaOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,No Base,MeOH
@@ -1103,7 +1103,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,CsF,MeCN
 6-Bromoquinoline,Trifluoroborate,SPhos,No Base,MeOH
 6-Iodoquinoline,Boronic Ester,No Ligand,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Acid,P(tBu)3,K3PO4,MeOH
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,Et3N,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,Et3N,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,K3PO4,MeCN
 6-Bromoquinoline,Boronic Ester,CataCXium A,Et3N,MeOH
 6-Iodoquinoline,Boronic Ester,No Ligand,KOH,THF
@@ -1121,7 +1121,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,KOH,MeOH
 6-Bromoquinoline,Boronic Ester,AmPhos,CsF,THF
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,KOH,MeCN
 6-Iodoquinoline,Boronic Acid,P(Cy)3,KOH,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,THF
 6-Bromoquinoline,Boronic Ester,XPhos,CsF,THF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,CsF,DMF
 6-triflatequinoline,Trifluoroborate,dtbpf,No Base,THF
@@ -1155,20 +1155,20 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,NaOH,THF
 6-Bromoquinoline,Boronic Acid,dtbpf,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,SPhos,LiOtBu,MeCN
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,CsF,DMF
+6-triflatequinoline,Boronic Acid,P(Ph)3,CsF,DMF
 6-Bromoquinoline,Boronic Acid,No Ligand,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,No Ligand,KOH,DMF
 6-quinoline-boronic acid hydrochloride,Bromide,CataCXium A,LiOtBu,MeCN
 6-Iodoquinoline,Boronic Acid,CataCXium A,Et3N,THF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,Et3N,MeCN
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,No Base,MeCN
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaOH,MeOH
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaOH,MeOH
 6-Iodoquinoline,Boronic Ester,No Ligand,No Base,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,CsF,DMF
 6-triflatequinoline,Boronic Acid,XPhos,CsF,DMF
 6-triflatequinoline,Trifluoroborate,CataCXium A,Et3N,THF
 6-quinoline-boronic acid hydrochloride,Bromide,P(Cy)3,KOH,MeCN
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaOH,MeOH
 6-Bromoquinoline,Boronic Ester,XPhos,Et3N,THF
 6-triflatequinoline,Boronic Ester,dtbpf,No Base,DMF
 6-Bromoquinoline,Trifluoroborate,XPhos,No Base,DMF
@@ -1180,7 +1180,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,dtbpf,LiOtBu,THF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,K3PO4,MeCN
 6-Iodoquinoline,Boronic Ester,SPhos,NaOH,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,KOH,THF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,KOH,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,NaOH,THF
 6-Iodoquinoline,Boronic Ester,P(tBu)3,CsF,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,Et3N,MeCN
@@ -1196,7 +1196,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,P(Cy)3,Et3N,DMF
 6-triflatequinoline,Boronic Acid,dtbpf,No Base,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,KOH,DMF
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,Et3N,MeOH
+6-Bromoquinoline,Boronic Ester,P(Ph)3,Et3N,MeOH
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,NaHCO3,MeCN
 6-Bromoquinoline,Boronic Acid,P(Cy)3,KOH,MeOH
 6-Iodoquinoline,Boronic Ester,XPhos,CsF,DMF
@@ -1214,11 +1214,11 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,Et3N,MeOH
 6-Iodoquinoline,Boronic Acid,SPhos,K3PO4,MeOH
 6-Bromoquinoline,Boronic Acid,SPhos,NaOH,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,LiOtBu,MeCN
+6-triflatequinoline,Boronic Ester,P(Ph)3,LiOtBu,MeCN
 6-Iodoquinoline,Boronic Ester,XPhos,KOH,THF
 6-Bromoquinoline,Boronic Ester,XPhos,K3PO4,MeCN
 6-triflatequinoline,Boronic Acid,SPhos,No Base,THF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,KOH,DMF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,KOH,DMF
 6-Iodoquinoline,Boronic Ester,CataCXium A,LiOtBu,MeCN
 6-triflatequinoline,Boronic Ester,XPhos,KOH,MeOH
 6-triflatequinoline,Boronic Ester,XPhos,LiOtBu,DMF
@@ -1234,7 +1234,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,K3PO4,DMF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,CsF,DMF
 6-triflatequinoline,Boronic Acid,AmPhos,NaHCO3,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,NaOH,MeCN
+6-triflatequinoline,Boronic Ester,P(Ph)3,NaOH,MeCN
 6-Iodoquinoline,Boronic Ester,P(tBu)3,CsF,THF
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,K3PO4,THF
 6-triflatequinoline,Boronic Ester,dtbpf,CsF,MeCN
@@ -1245,12 +1245,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,NaOH,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,MeCN
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,No Base,THF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,CsF,THF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,CsF,THF
 6-Bromoquinoline,Boronic Ester,XPhos,Et3N,MeOH
 6-triflatequinoline,Boronic Ester,P(tBu)3,KOH,MeCN
 6-Iodoquinoline,Trifluoroborate,AmPhos,NaOH,MeOH
 6-triflatequinoline,Boronic Acid,SPhos,NaHCO3,MeCN
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,LiOtBu,THF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,LiOtBu,THF
 6-Iodoquinoline,Boronic Ester,No Ligand,LiOtBu,THF
 6-quinoline-boronic acid hydrochloride,Bromide,P(o-Tol)3,LiOtBu,DMF
 6-triflatequinoline,Boronic Acid,No Ligand,No Base,DMF
@@ -1263,7 +1263,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,MeCN
 6-Iodoquinoline,Trifluoroborate,AmPhos,NaHCO3,THF
 6-triflatequinoline,Trifluoroborate,CataCXium A,No Base,DMF
 6-Iodoquinoline,Boronic Ester,P(Cy)3,No Base,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,KOH,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,KOH,MeOH
 6-Iodoquinoline,Trifluoroborate,CataCXium A,NaOH,DMF
 6-Bromoquinoline,Boronic Acid,dtbpf,NaHCO3,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,No Base,MeCN
@@ -1273,7 +1273,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,MeCN
 6-Bromoquinoline,Trifluoroborate,CataCXium A,NaHCO3,MeCN
 6-triflatequinoline,Boronic Acid,P(tBu)3,K3PO4,DMF
 6-triflatequinoline,Boronic Ester,No Ligand,KOH,MeCN
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,No Base,MeCN
+6-Iodoquinoline,Boronic Ester,P(Ph)3,No Base,MeCN
 6-triflatequinoline,Boronic Acid,SPhos,KOH,DMF
 6-triflatequinoline,Trifluoroborate,AmPhos,No Base,MeCN
 6-Bromoquinoline,Boronic Acid,AmPhos,LiOtBu,THF
@@ -1282,7 +1282,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,MeCN
 6-triflatequinoline,Trifluoroborate,SPhos,No Base,MeCN
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,Et3N,MeCN
 6-Iodoquinoline,Boronic Ester,AmPhos,NaOH,MeCN
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,K3PO4,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,K3PO4,MeOH
 6-triflatequinoline,Boronic Acid,XPhos,No Base,MeOH
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,CsF,MeOH
 6-triflatequinoline,Boronic Ester,XPhos,NaHCO3,MeOH
@@ -1292,13 +1292,13 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,No Base,MeCN
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,KOH,MeOH
 6-Iodoquinoline,Boronic Acid,dtbpf,KOH,THF
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,K3PO4,THF
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,Et3N,MeCN
+6-Bromoquinoline,Boronic Ester,P(Ph)3,Et3N,MeCN
 6-triflatequinoline,Trifluoroborate,SPhos,KOH,MeCN
 6-Iodoquinoline,Trifluoroborate,XPhos,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,LiOtBu,DMF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,MeCN
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,K3PO4,MeOH
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,K3PO4,DMF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,NaHCO3,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,K3PO4,MeOH
+6-Bromoquinoline,Boronic Acid,P(Ph)3,K3PO4,DMF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,CsF,THF
 6-Quinolineboronic acid pinacol ester,Bromide,No Ligand,CsF,DMF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,K3PO4,DMF
@@ -1306,7 +1306,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,K3PO4,THF
 6-Bromoquinoline,Trifluoroborate,XPhos,No Base,THF
 6-Iodoquinoline,Boronic Ester,SPhos,LiOtBu,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,No Base,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,KOH,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,KOH,THF
 6-triflatequinoline,Boronic Acid,AmPhos,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,K3PO4,MeOH
 6-Bromoquinoline,Boronic Acid,SPhos,K3PO4,DMF
@@ -1318,7 +1318,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,LiOtBu,MeCN
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,CsF,THF
 6-triflatequinoline,Boronic Acid,XPhos,NaHCO3,THF
 6-Iodoquinoline,Boronic Ester,dtbpf,CsF,DMF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,KOH,MeCN
+6-triflatequinoline,Boronic Acid,P(Ph)3,KOH,MeCN
 6-Iodoquinoline,Trifluoroborate,SPhos,No Base,MeCN
 6-triflatequinoline,Trifluoroborate,P(tBu)3,NaHCO3,THF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,LiOtBu,MeOH
@@ -1346,7 +1346,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,NaOH,THF
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,NaOH,THF
 6-Bromoquinoline,Boronic Ester,dtbpf,K3PO4,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(tBu)3,KOH,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,CsF,MeCN
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,CsF,MeCN
 6-triflatequinoline,Boronic Ester,XPhos,Et3N,DMF
 6-Bromoquinoline,Boronic Acid,dtbpf,LiOtBu,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,Et3N,THF
@@ -1364,7 +1364,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,NaOH,MeCN
 6-Iodoquinoline,Boronic Acid,CataCXium A,NaHCO3,THF
 6-triflatequinoline,Trifluoroborate,CataCXium A,CsF,THF
 6-Iodoquinoline,Boronic Ester,CataCXium A,K3PO4,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,No Base,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,No Base,MeCN
 6-Iodoquinoline,Boronic Acid,P(tBu)3,CsF,MeCN
 6-Bromoquinoline,Trifluoroborate,XPhos,LiOtBu,THF
 6-Bromoquinoline,Trifluoroborate,SPhos,CsF,MeOH
@@ -1379,12 +1379,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,KOH,MeCN
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,K3PO4,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,THF
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,NaHCO3,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,No Base,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,No Base,THF
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,NaHCO3,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,No Base,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,LiOtBu,MeCN
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,LiOtBu,MeCN
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,Et3N,MeCN
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,NaOH,THF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,NaOH,THF
 6-Iodoquinoline,Trifluoroborate,No Ligand,Et3N,THF
 6-Bromoquinoline,Boronic Ester,P(Cy)3,LiOtBu,MeOH
 6-Iodoquinoline,Boronic Acid,XPhos,KOH,THF
@@ -1396,10 +1396,10 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,KOH,MeOH
 6-Bromoquinoline,Boronic Ester,P(tBu)3,LiOtBu,THF
 6-triflatequinoline,Trifluoroborate,AmPhos,No Base,MeOH
 6-triflatequinoline,Trifluoroborate,AmPhos,Et3N,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,NaOH,THF
+6-triflatequinoline,Boronic Acid,P(Ph)3,NaOH,THF
 6-Bromoquinoline,Boronic Ester,AmPhos,CsF,DMF
 6-Iodoquinoline,Boronic Acid,No Ligand,KOH,DMF
-6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3 ,KOH,DMF
+6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3,KOH,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,K3PO4,MeCN
 6-triflatequinoline,Trifluoroborate,P(Cy)3,No Base,MeCN
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,NaOH,THF
@@ -1417,7 +1417,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,K3PO4,MeCN
 6-triflatequinoline,Trifluoroborate,P(Cy)3,KOH,THF
 6-Iodoquinoline,Boronic Acid,CataCXium A,NaHCO3,MeCN
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,KOH,THF
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,KOH,MeOH
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,KOH,MeOH
 6-triflatequinoline,Boronic Ester,dtbpf,No Base,THF
 6-Iodoquinoline,Boronic Ester,dtbpf,Et3N,MeOH
 6-triflatequinoline,Boronic Ester,XPhos,CsF,MeOH
@@ -1429,7 +1429,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,KOH,MeOH
 6-triflatequinoline,Boronic Acid,P(tBu)3,K3PO4,MeOH
 6-Iodoquinoline,Boronic Acid,XPhos,LiOtBu,DMF
 6-triflatequinoline,Boronic Acid,XPhos,No Base,THF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,KOH,THF
+6-triflatequinoline,Boronic Ester,P(Ph)3,KOH,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,LiOtBu,DMF
 6-Iodoquinoline,Boronic Ester,SPhos,CsF,DMF
 6-triflatequinoline,Boronic Acid,XPhos,KOH,MeOH
@@ -1462,11 +1462,11 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,KOH,MeOH
 6-Bromoquinoline,Trifluoroborate,dtbpf,NaHCO3,MeCN
 6-triflatequinoline,Trifluoroborate,SPhos,NaOH,THF
 6-quinoline-boronic acid hydrochloride,Bromide,No Ligand,K3PO4,MeCN
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,NaHCO3,THF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,NaHCO3,THF
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,K3PO4,DMF
 6-Bromoquinoline,Boronic Ester,CataCXium A,No Base,MeOH
 6-Iodoquinoline,Trifluoroborate,AmPhos,CsF,MeOH
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,DMF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,DMF
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,NaOH,DMF
 6-triflatequinoline,Boronic Ester,P(tBu)3,Et3N,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,No Base,THF
@@ -1474,7 +1474,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,KOH,MeOH
 6-Iodoquinoline,Boronic Acid,AmPhos,No Base,MeCN
 6-Iodoquinoline,Boronic Ester,P(Cy)3,NaOH,DMF
 6-Iodoquinoline,Boronic Acid,CataCXium A,NaOH,MeCN
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,K3PO4,THF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,K3PO4,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,NaOH,DMF
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,NaOH,THF
@@ -1490,7 +1490,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,KOH,THF
 6-triflatequinoline,Boronic Ester,CataCXium A,CsF,MeCN
 6-Iodoquinoline,Trifluoroborate,XPhos,LiOtBu,MeOH
 6-triflatequinoline,Trifluoroborate,dtbpf,NaOH,THF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,CsF,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,CsF,MeOH
 6-Bromoquinoline,Boronic Acid,SPhos,KOH,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,K3PO4,DMF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,K3PO4,MeCN
@@ -1498,7 +1498,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,KOH,THF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,K3PO4,MeOH
 6-triflatequinoline,Boronic Ester,SPhos,CsF,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,Et3N,MeCN
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,No Base,MeCN
+6-Bromoquinoline,Boronic Ester,P(Ph)3,No Base,MeCN
 6-Bromoquinoline,Boronic Acid,P(Cy)3,NaHCO3,DMF
 6-Bromoquinoline,Boronic Ester,P(o-Tol)3,LiOtBu,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,No Base,MeOH
@@ -1519,17 +1519,17 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,No Base,MeOH
 6-triflatequinoline,Boronic Acid,P(Cy)3,NaHCO3,DMF
 6-Bromoquinoline,Boronic Ester,No Ligand,KOH,THF
 6-Bromoquinoline,Boronic Ester,dtbpf,LiOtBu,THF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,KOH,MeCN
+6-triflatequinoline,Boronic Ester,P(Ph)3,KOH,MeCN
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,K3PO4,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,NaOH,MeCN
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,CsF,THF
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,CsF,THF
 6-Bromoquinoline,Trifluoroborate,dtbpf,NaHCO3,DMF
 6-triflatequinoline,Boronic Ester,AmPhos,NaHCO3,MeCN
 6-Iodoquinoline,Boronic Ester,XPhos,CsF,MeCN
 6-triflatequinoline,Boronic Acid,AmPhos,NaHCO3,MeCN
 6-triflatequinoline,Boronic Ester,CataCXium A,CsF,MeOH
 6-triflatequinoline,Boronic Ester,P(tBu)3,NaHCO3,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,KOH,THF
+6-triflatequinoline,Boronic Acid,P(Ph)3,KOH,THF
 6-Iodoquinoline,Boronic Ester,SPhos,CsF,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,K3PO4,THF
 6-Iodoquinoline,Boronic Acid,No Ligand,KOH,MeCN
@@ -1559,11 +1559,11 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,CsF,MeOH
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,LiOtBu,MeOH
 6-Iodoquinoline,Boronic Ester,XPhos,LiOtBu,DMF
 6-Iodoquinoline,Trifluoroborate,CataCXium A,NaOH,MeOH
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,MeOH
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaHCO3,MeOH
 6-Iodoquinoline,Trifluoroborate,CataCXium A,Et3N,MeOH
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,CsF,THF
+6-triflatequinoline,Boronic Acid,P(Ph)3,CsF,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(Cy)3,KOH,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,Et3N,MeCN
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,Et3N,MeCN
 6-Iodoquinoline,Boronic Acid,dtbpf,K3PO4,MeOH
 6-triflatequinoline,Boronic Acid,CataCXium A,CsF,MeOH
 6-triflatequinoline,Trifluoroborate,P(Cy)3,K3PO4,MeCN
@@ -1574,12 +1574,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,CsF,DMF
 6-Bromoquinoline,Trifluoroborate,P(tBu)3,NaHCO3,THF
 6-Iodoquinoline,Boronic Acid,XPhos,No Base,MeCN
 6-triflatequinoline,Boronic Ester,dtbpf,K3PO4,MeCN
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,MeCN
+6-triflatequinoline,Trifluoroborate,P(Ph)3,LiOtBu,MeCN
 6-Bromoquinoline,Trifluoroborate,dtbpf,KOH,MeCN
 6-triflatequinoline,Trifluoroborate,P(Cy)3,Et3N,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,K3PO4,MeCN
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,K3PO4,MeCN
 6-Bromoquinoline,Trifluoroborate,CataCXium A,KOH,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaOH,MeCN
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaOH,MeCN
 6-Iodoquinoline,Boronic Ester,CataCXium A,No Base,MeCN
 6-Iodoquinoline,Boronic Ester,dtbpf,KOH,THF
 6-triflatequinoline,Boronic Acid,No Ligand,No Base,MeOH
@@ -1598,17 +1598,17 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,NaOH,THF
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,CsF,THF
 6-Bromoquinoline,Boronic Acid,No Ligand,CsF,DMF
 6-Iodoquinoline,Boronic Ester,CataCXium A,No Base,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,KOH,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,KOH,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,Et3N,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,No Ligand,LiOtBu,MeOH
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,NaHCO3,MeCN
+6-Bromoquinoline,Boronic Acid,P(Ph)3,NaHCO3,MeCN
 6-triflatequinoline,Boronic Acid,P(Cy)3,K3PO4,MeCN
 6-triflatequinoline,Boronic Acid,P(tBu)3,K3PO4,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,No Ligand,K3PO4,DMF
 6-Bromoquinoline,Trifluoroborate,AmPhos,KOH,THF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,KOH,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,THF
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaOH,THF
 6-quinoline-boronic acid hydrochloride,Bromide,CataCXium A,NaHCO3,DMF
 6-Bromoquinoline,Boronic Acid,XPhos,KOH,THF
 6-Iodoquinoline,Trifluoroborate,AmPhos,LiOtBu,THF
@@ -1617,12 +1617,12 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(Cy)3,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,Et3N,THF
 6-Bromoquinoline,Boronic Ester,P(Cy)3,KOH,DMF
 6-Bromoquinoline,Boronic Acid,P(tBu)3,NaHCO3,THF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,NaOH,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,NaOH,MeOH
 6-Iodoquinoline,Trifluoroborate,dtbpf,K3PO4,MeCN
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,CsF,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,CsF,MeOH
 6-triflatequinoline,Boronic Ester,XPhos,NaHCO3,THF
 6-Iodoquinoline,Boronic Ester,P(tBu)3,K3PO4,DMF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,KOH,THF
+6-Iodoquinoline,Boronic Ester,P(Ph)3,KOH,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,Et3N,MeCN
 6-Bromoquinoline,Trifluoroborate,dtbpf,NaOH,MeCN
 6-quinoline-boronic acid hydrochloride,Bromide,P(tBu)3,Et3N,MeCN
@@ -1678,7 +1678,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,Et3N,MeOH
 6-Iodoquinoline,Boronic Ester,No Ligand,KOH,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Ester,P(Cy)3,CsF,MeOH
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,NaOH,DMF
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,NaOH,DMF
 6-Iodoquinoline,Boronic Ester,P(o-Tol)3,NaHCO3,MeOH
 6-Bromoquinoline,Boronic Acid,P(tBu)3,Et3N,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,NaOH,MeOH
@@ -1687,10 +1687,10 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,LiOtBu,MeOH
 6-triflatequinoline,Boronic Acid,XPhos,KOH,THF
 6-triflatequinoline,Boronic Ester,CataCXium A,Et3N,DMF
 6-triflatequinoline,Boronic Acid,No Ligand,Et3N,MeCN
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,K3PO4,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,K3PO4,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,CsF,THF
 6-Iodoquinoline,Boronic Acid,P(tBu)3,CsF,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,No Base,THF
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,No Base,THF
 6-Iodoquinoline,Boronic Acid,dtbpf,LiOtBu,MeCN
 6-Bromoquinoline,Trifluoroborate,AmPhos,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,CataCXium A,No Base,THF
@@ -1707,17 +1707,17 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,KOH,MeCN
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,CsF,MeCN
 6-triflatequinoline,Trifluoroborate,SPhos,NaHCO3,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,CsF,THF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,CsF,THF
 6-triflatequinoline,Boronic Acid,XPhos,Et3N,MeOH
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,K3PO4,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,CsF,MeOH
+6-Iodoquinoline,Boronic Ester,P(Ph)3,K3PO4,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,CsF,MeOH
 6-Iodoquinoline,Boronic Ester,XPhos,CsF,THF
 6-triflatequinoline,Boronic Ester,AmPhos,K3PO4,MeCN
 6-Bromoquinoline,Boronic Ester,P(tBu)3,Et3N,DMF
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,CsF,THF
 6-Bromoquinoline,Trifluoroborate,XPhos,CsF,THF
 6-Bromoquinoline,Boronic Ester,AmPhos,K3PO4,DMF
-6-Iodoquinoline,Boronic Ester,P(Ph)3 ,KOH,MeOH
+6-Iodoquinoline,Boronic Ester,P(Ph)3,KOH,MeOH
 6-Bromoquinoline,Boronic Ester,SPhos,NaHCO3,THF
 6-Bromoquinoline,Boronic Acid,XPhos,NaOH,MeCN
 6-Bromoquinoline,Boronic Ester,P(Cy)3,NaHCO3,DMF
@@ -1736,7 +1736,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,MeCN
 6-Bromoquinoline,Trifluoroborate,dtbpf,K3PO4,MeOH
 6-triflatequinoline,Boronic Ester,P(Cy)3,K3PO4,MeOH
 6-Bromoquinoline,Boronic Acid,XPhos,K3PO4,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,NaHCO3,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,NaHCO3,MeOH
 6-Iodoquinoline,Trifluoroborate,CataCXium A,NaHCO3,DMF
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,Et3N,DMF
 6-Bromoquinoline,Boronic Ester,SPhos,NaOH,MeCN
@@ -1746,7 +1746,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,XPhos,Et3N,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,LiOtBu,THF
 6-triflatequinoline,Boronic Acid,CataCXium A,Et3N,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,AmPhos,K3PO4,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,K3PO4,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,K3PO4,MeOH
 6-Iodoquinoline,Boronic Acid,dtbpf,Et3N,THF
 6-Bromoquinoline,Boronic Acid,dtbpf,KOH,DMF
 6-quinoline-boronic acid hydrochloride,Bromide,dtbpf,CsF,DMF
@@ -1773,7 +1773,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,K3PO4,THF
 6-triflatequinoline,Boronic Ester,P(Cy)3,CsF,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,KOH,THF
 6-triflatequinoline,Boronic Ester,AmPhos,No Base,THF
-6-triflatequinoline,Boronic Acid,P(Ph)3 ,No Base,MeOH
+6-triflatequinoline,Boronic Acid,P(Ph)3,No Base,MeOH
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,K3PO4,MeCN
 6-Bromoquinoline,Boronic Acid,AmPhos,LiOtBu,DMF
 6-Bromoquinoline,Boronic Ester,No Ligand,NaOH,MeCN
@@ -1786,7 +1786,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,KOH,THF
 6-Bromoquinoline,Boronic Acid,XPhos,K3PO4,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaHCO3,THF
 6-Bromoquinoline,Trifluoroborate,P(o-Tol)3,Et3N,DMF
-6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3 ,NaHCO3,MeCN
+6-quinoline-boronic acid hydrochloride,Bromide,P(Ph)3,NaHCO3,MeCN
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,Et3N,MeCN
 6-Iodoquinoline,Trifluoroborate,P(Cy)3,Et3N,DMF
 6-Iodoquinoline,Trifluoroborate,P(tBu)3,CsF,MeCN
@@ -1797,15 +1797,15 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,NaHCO3,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,Et3N,THF
 6-triflatequinoline,Boronic Acid,P(Cy)3,KOH,DMF
 6-Bromoquinoline,Boronic Acid,No Ligand,Et3N,DMF
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,CsF,MeCN
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,CsF,MeCN
 6-triflatequinoline,Trifluoroborate,P(tBu)3,No Base,MeCN
 6-Bromoquinoline,Boronic Ester,AmPhos,LiOtBu,MeCN
 6-Iodoquinoline,Trifluoroborate,SPhos,CsF,THF
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,CsF,DMF
-6-triflatequinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,THF
+6-triflatequinoline,Trifluoroborate,P(Ph)3,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,P(Cy)3,NaHCO3,MeOH
 6-Iodoquinoline,Trifluoroborate,SPhos,Et3N,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,NaOH,THF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,NaOH,THF
 Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,LiOtBu,DMF
 6-triflatequinoline,Boronic Acid,P(Cy)3,CsF,MeOH
 6-Iodoquinoline,Trifluoroborate,AmPhos,CsF,MeCN
@@ -1816,7 +1816,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,LiOtBu,DMF
 6-Bromoquinoline,Trifluoroborate,SPhos,Et3N,DMF
 6-triflatequinoline,Trifluoroborate,SPhos,NaHCO3,THF
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,Et3N,DMF
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,CsF,DMF
+6-Iodoquinoline,Boronic Acid,P(Ph)3,CsF,DMF
 6-Bromoquinoline,Boronic Ester,CataCXium A,LiOtBu,MeOH
 6-triflatequinoline,Boronic Ester,No Ligand,KOH,MeOH
 6-Bromoquinoline,Boronic Ester,P(Cy)3,Et3N,THF
@@ -1827,8 +1827,8 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(o-Tol)3,LiOtBu,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,THF
 6-Bromoquinoline,Boronic Ester,CataCXium A,Et3N,MeCN
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,Et3N,MeOH
-6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3 ,NaHCO3,MeOH
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,NaHCO3,MeOH
+6-Quinolineboronic acid pinacol ester,Bromide,P(Ph)3,NaHCO3,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,NaHCO3,MeOH
 6-Iodoquinoline,Boronic Acid,dtbpf,CsF,THF
 6-Bromoquinoline,Trifluoroborate,AmPhos,CsF,MeOH
 6-Iodoquinoline,Trifluoroborate,XPhos,KOH,THF
@@ -1836,7 +1836,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,Et3N,THF
 6-Quinolineboronic acid pinacol ester,Bromide,P(o-Tol)3,NaHCO3,THF
 6-Iodoquinoline,Boronic Ester,CataCXium A,LiOtBu,MeOH
 6-Bromoquinoline,Boronic Ester,P(tBu)3,CsF,MeOH
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,CsF,DMF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,CsF,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,CsF,MeCN
 6-Bromoquinoline,Boronic Ester,CataCXium A,NaOH,MeCN
 6-Bromoquinoline,Boronic Ester,SPhos,KOH,MeCN
@@ -1846,14 +1846,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,No Ligand,CsF,MeCN
 6-Bromoquinoline,Trifluoroborate,No Ligand,LiOtBu,THF
 6-Iodoquinoline,Boronic Acid,P(tBu)3,K3PO4,THF
 6-triflatequinoline,Boronic Acid,AmPhos,LiOtBu,MeCN
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,KOH,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,KOH,DMF
 6-Bromoquinoline,Trifluoroborate,AmPhos,NaHCO3,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,AmPhos,CsF,THF
 6-Bromoquinoline,Trifluoroborate,SPhos,LiOtBu,MeCN
 6-Iodoquinoline,Trifluoroborate,P(o-Tol)3,CsF,DMF
 6-quinoline-boronic acid hydrochloride,Bromide,No Ligand,NaHCO3,DMF
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,CsF,MeOH
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,LiOtBu,THF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,CsF,MeOH
+6-triflatequinoline,Boronic Ester,P(Ph)3,LiOtBu,THF
 6-triflatequinoline,Boronic Ester,SPhos,CsF,DMF
 6-Bromoquinoline,Boronic Acid,P(o-Tol)3,LiOtBu,MeOH
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,K3PO4,MeOH
@@ -1886,14 +1886,14 @@ Potassium quinoline-6-trifluoroborate,Bromide,P(tBu)3,Et3N,THF
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,K3PO4,THF
 6-Iodoquinoline,Trifluoroborate,dtbpf,Et3N,DMF
 6-triflatequinoline,Trifluoroborate,AmPhos,LiOtBu,MeCN
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,Et3N,MeOH
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,Et3N,MeOH
 6-Bromoquinoline,Boronic Ester,dtbpf,KOH,THF
 6-Bromoquinoline,Boronic Acid,No Ligand,Et3N,MeOH
 6-Iodoquinoline,Boronic Ester,dtbpf,Et3N,MeCN
 6-Iodoquinoline,Boronic Acid,P(tBu)3,NaOH,DMF
 6-Iodoquinoline,Boronic Ester,dtbpf,No Base,MeOH
 6-triflatequinoline,Trifluoroborate,AmPhos,NaHCO3,DMF
-6-Bromoquinoline,Boronic Ester,P(Ph)3 ,K3PO4,DMF
+6-Bromoquinoline,Boronic Ester,P(Ph)3,K3PO4,DMF
 6-Bromoquinoline,Trifluoroborate,P(Cy)3,No Base,DMF
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,KOH,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,CataCXium A,LiOtBu,MeCN
@@ -1927,8 +1927,8 @@ Potassium quinoline-6-trifluoroborate,Bromide,dtbpf,CsF,MeCN
 6-Iodoquinoline,Boronic Ester,SPhos,Et3N,MeOH
 6-triflatequinoline,Boronic Acid,SPhos,K3PO4,THF
 6-Bromoquinoline,Trifluoroborate,XPhos,NaOH,THF
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,Et3N,MeOH
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,LiOtBu,DMF
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,Et3N,MeOH
+6-Iodoquinoline,Boronic Acid,P(Ph)3,LiOtBu,DMF
 6-Bromoquinoline,Trifluoroborate,XPhos,NaOH,MeCN
 6-Iodoquinoline,Boronic Acid,AmPhos,K3PO4,MeCN
 6-Bromoquinoline,Boronic Ester,P(tBu)3,No Base,MeOH
@@ -1949,7 +1949,7 @@ Potassium quinoline-6-trifluoroborate,Bromide,CataCXium A,KOH,MeCN
 6-Iodoquinoline,Trifluoroborate,XPhos,NaOH,THF
 6-Bromoquinoline,Boronic Ester,AmPhos,NaHCO3,THF
 6-Bromoquinoline,Boronic Acid,No Ligand,KOH,DMF
-6-Iodoquinoline,Trifluoroborate,P(Ph)3 ,LiOtBu,MeCN
+6-Iodoquinoline,Trifluoroborate,P(Ph)3,LiOtBu,MeCN
 6-Quinolineboronic acid pinacol ester,Bromide,SPhos,CsF,THF
 6-Bromoquinoline,Boronic Acid,AmPhos,KOH,DMF
 6-triflatequinoline,Boronic Acid,dtbpf,CsF,MeCN
@@ -1961,13 +1961,13 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,NaHCO3,MeCN
 6-Bromoquinoline,Trifluoroborate,XPhos,Et3N,DMF
 6-triflatequinoline,Boronic Ester,No Ligand,Et3N,THF
 6-Quinolineboronic acid pinacol ester,Bromide,XPhos,LiOtBu,MeCN
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,Et3N,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,Et3N,MeCN
 6-triflatequinoline,Trifluoroborate,P(tBu)3,Et3N,DMF
 6-Iodoquinoline,Boronic Ester,SPhos,KOH,THF
 6-triflatequinoline,Boronic Ester,XPhos,No Base,THF
 6-triflatequinoline,Boronic Acid,P(o-Tol)3,No Base,MeOH
 6-Bromoquinoline,Boronic Ester,dtbpf,NaHCO3,MeCN
-6-Iodoquinoline,Boronic Acid,P(Ph)3 ,CsF,MeCN
+6-Iodoquinoline,Boronic Acid,P(Ph)3,CsF,MeCN
 6-Iodoquinoline,Boronic Acid,P(o-Tol)3,K3PO4,DMF
 6-quinoline-boronic acid hydrochloride,Bromide,dtbpf,KOH,DMF
 6-triflatequinoline,Trifluoroborate,P(o-Tol)3,K3PO4,THF
@@ -1984,18 +1984,18 @@ Potassium quinoline-6-trifluoroborate,Bromide,SPhos,NaHCO3,MeCN
 6-Iodoquinoline,Trifluoroborate,SPhos,K3PO4,THF
 6-triflatequinoline,Boronic Ester,SPhos,NaOH,MeOH
 6-Quinolineboronic acid pinacol ester,Bromide,dtbpf,NaOH,THF
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,KOH,DMF
-6-triflatequinoline,Boronic Ester,P(Ph)3 ,CsF,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,KOH,DMF
+6-triflatequinoline,Boronic Ester,P(Ph)3,CsF,MeCN
 6-triflatequinoline,Boronic Ester,P(o-Tol)3,No Base,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,SPhos,LiOtBu,MeOH
 6-Iodoquinoline,Trifluoroborate,CataCXium A,LiOtBu,MeCN
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,LiOtBu,MeCN
+6-Bromoquinoline,Boronic Acid,P(Ph)3,LiOtBu,MeCN
 6-Bromoquinoline,Boronic Acid,CataCXium A,Et3N,MeOH
 6-Bromoquinoline,Boronic Ester,No Ligand,KOH,MeCN
 Potassium quinoline-6-trifluoroborate,Bromide,XPhos,NaHCO3,THF
 6-triflatequinoline,Trifluoroborate,SPhos,KOH,DMF
 6-Bromoquinoline,Boronic Ester,P(Cy)3,CsF,DMF
-6-Bromoquinoline,Trifluoroborate,P(Ph)3 ,NaOH,DMF
-6-Bromoquinoline,Boronic Acid,P(Ph)3 ,CsF,MeCN
+6-Bromoquinoline,Trifluoroborate,P(Ph)3,NaOH,DMF
+6-Bromoquinoline,Boronic Acid,P(Ph)3,CsF,MeCN
 6-triflatequinoline,Boronic Ester,dtbpf,No Base,MeCN
-Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3 ,CsF,MeCN
+Potassium quinoline-6-trifluoroborate,Bromide,P(Ph)3,CsF,MeCN

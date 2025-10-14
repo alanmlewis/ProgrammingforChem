@@ -19,6 +19,7 @@ features.replace(to_replace='2a, Boronic Acid',value='Boronic Acid',inplace=True
 features.replace(to_replace='2b, Boronic Ester',value='Boronic Ester',inplace=True)
 features.replace(to_replace='2c, Trifluoroborate',value='Trifluoroborate',inplace=True)
 features.replace(to_replace='2d, Bromide',value='Bromide',inplace=True)
+features.replace(to_replace='P(Ph)3 ',value='P(Ph)3',inplace=True)
 
 # Values to drop based on box plot analysis below
 features = features.loc[features['Ligand_Short_Hand'] != 'dppf']
