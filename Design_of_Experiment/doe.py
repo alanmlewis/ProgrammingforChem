@@ -1,3 +1,6 @@
+# The purpose of this script is to curate a dataset to provide to the students for
+# the Y3 design of experiment workshop. Now that's done it shouldn't need to be run again.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np

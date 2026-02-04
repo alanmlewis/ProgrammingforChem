@@ -23,8 +23,8 @@ data = data.join(pd.concat(date_gen, axis=1))
 # Plotting our first graph - the concentrations of NO, NO2, and O3 over time on December 1st 2017
 
 # Get the subset of data which corresponds to December 2017
-data_subset = data.loc[(data['month']==12)]
-data_subset = data_subset.loc[(data_subset['year']==2017)]
+data_subset = data.loc[data['month']==12]
+data_subset = data_subset.loc[data_subset['year']==2017]
 
 # Get the Nitrogen dioxide data from the 1st of Decemeber 2017
 plot_data = data_subset.loc[data_subset['day']==1]
