@@ -12,7 +12,7 @@ from sys import argv
 # ----------------------------- FITTING OPTIONS --------------------------------------------
 
 # Set fit to True to calculate a fit to the (possibly manipulated) data
-fit = True
+fit = False
 
 # Define the form of the function to be fit to the data (default: linear a*x+b)
 def linear(x,m,c):
@@ -34,12 +34,19 @@ func_name = args[-1]
 
 try:
 	func = eval(func_name)
+	# Since you've provided an acceptable fitting function, we assume you want to fit
+	fit = True
 	suffix = '_'+func_name
 	print(f'A best fit to the data will be calculated using the function \"{func_name}\"')
 except:
-	print('You have either not provided a fitting function, or provided the incorrect name for a fitting function. No line of best fit will be plotted.')
-	fit = False
-	suffix = ''
+	if fit == True:
+	    print("You have either not provided a fitting function, or provided the incorrect name for a fitting function.")
+	    print("Since you've requested a fit (fit = True), we default to a linear line of best fit.")
+	    func_name = "linear"
+	    func = eval(func_name)
+	    suffix = '_'+func_name
+	else:
+	    suffix = ''
 
 # ----------------------------- OUTPUT OPTIONS --------------------------------------------
 # Set output to True to write the parameters of the line of best fit
@@ -73,6 +80,7 @@ nfiles=len(args)
 print('A total of '+str(nfiles)+' csv files will be processed. Any other files will be ignored.')
 
 # We will create a plot from every csv file passed to the program
+i = 0
 for fname in args:
     i=i+1
     print(f"Processing file {i} of {nfiles} - {fname}")
