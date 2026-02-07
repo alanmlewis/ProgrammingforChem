@@ -21,7 +21,26 @@ def linear(x,m,c):
 # For a quadratic fit 
 def quad(x,a,b,c):
     return a*x**2 + b*x + c
-    
+
+
+# ----------------------------- OUTPUT OPTIONS --------------------------------------------
+# Set output to True to write the parameters of the line of best fit
+# of every processed data file to a single external file.
+output = False
+
+# Set the name of this external file
+output_fname = 'fit_parameters'
+
+# If we are not performing a fit, there will be nothing to output!
+if fit == False:
+    output = False
+
+# Add a unique suffix to the name of each output file
+# If you are fitting the data, this is the name of the fitting function by default
+# Uncomment the line below to override this
+
+# suffix = "_suffix"
+
 # ------------------------------------------------------------------------------------------
 
 # ----------------------------- HANDLE RUN-TIME ARGUMENTS ----------------------------------
@@ -37,34 +56,18 @@ try:
 	# Since you've provided an acceptable fitting function, we assume you want to fit
 	fit = True
 	suffix = '_'+func_name
+	# Since you've provided an acceptable fitting function, we assume you want to output fitting parameters
+	output = True
 	print(f'A best fit to the data will be calculated using the function \"{func_name}\"')
 except:
 	if fit == True:
-	    print("You have either not provided a fitting function, or provided the incorrect name for a fitting function.")
-	    print("Since you've requested a fit (fit = True), we default to a linear line of best fit.")
+	    print("\nYou have either not provided a fitting function, or provided the incorrect name for a fitting function.")
+	    print("Since you've requested a fit (fit = True), defaulting to a linear line of best fit.\n")
 	    func_name = "linear"
 	    func = eval(func_name)
 	    suffix = '_'+func_name
 	else:
 	    suffix = ''
-
-# ----------------------------- OUTPUT OPTIONS --------------------------------------------
-# Set output to True to write the parameters of the line of best fit
-# of every processed data file to a single external file.
-output = True
-
-# Set the name of this external file
-output_fname = 'fit_parameters'
-
-# If we are not performing a fit, there will be nothing to output!
-if fit == False:
-    output = False
-
-# Add a unique suffix to the name of each output file
-# If you are fitting the data, this is the name of the fitting function by default
-# Uncomment the line below to override this
-
-# suffix = "_suffix"
 
 # ------------------------------------------------------------------------------------------
 
@@ -159,7 +162,7 @@ for fname in args:
         # Calculate the value of the line of the best fit at every value of x
         y_fit = func(x,*fit_params)
         # Calculate the root mean square error in the line of best fit.
-        rmse = np.square(y-yfit)
+        rmse = np.square(y-y_fit)
         rmse = np.average(rmse)
         rmse = np.sqrt(rmse)
 
