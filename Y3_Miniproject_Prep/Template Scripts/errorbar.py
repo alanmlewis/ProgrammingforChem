@@ -1,6 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Set font size
+font = {'family' : 'normal',
+        'weight' : 'normal',
+        'size'   : 16}
+plt.rc('font', **font)
+
 # Load data from three different files into three different variables
 veh = np.loadtxt('vehicular.txt',skiprows=1)
 paint = np.loadtxt('paint.txt',skiprows=1)
@@ -16,5 +22,5 @@ plt.xlabel('% Change in Emissions')
 plt.ylabel('% Change in Ozone Conc.')
 plt.legend()
 
-# Save the figure
-plt.savefig('errorbar.png')
+# Save the figure. bbox_inches sets the borders automatically, and dpi sets the resolution of the image
+plt.savefig('errorbar.png',bbox_inches='tight',dpi=500)

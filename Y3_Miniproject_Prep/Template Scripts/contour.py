@@ -12,10 +12,10 @@ y = data[1:,0]
 z = data[1:,1:]
 
 # Create a filled contour plot
-plt.contourf(x, y, z, levels=10, cmap='inferno')
+plt.contourf(x, y, z, levels=20, cmap='inferno')
 
 # Add axis labels and a title
-plt.xlabel('Temperature / Celsius')
+plt.xlabel('Temperature / °C')
 plt.ylabel('pH')
 plt.title('Enzyme Activity (%)')
 
@@ -23,4 +23,4 @@ plt.title('Enzyme Activity (%)')
 plt.colorbar()
 
 # Save the resulting figure
-plt.savefig('contour.png')
+plt.savefig('contour.png',bbox_inches='tight',dpi=500)

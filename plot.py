@@ -14,13 +14,16 @@ from sys import argv
 # Set fit to True to calculate a fit to the (possibly manipulated) data
 fit = False
 
-# Define the form of the function to be fit to the data (default: linear a*x+b)
+# Define the form of the function to be fit to the data (default: linear m*x+c)
 def linear(x,m,c):
     return m*x+c
     
 # For a quadratic fit 
-def quad(x,a,b,c):
+def quadratic(x,a,b,c):
     return a*x**2 + b*x + c
+
+# You can add your own function of any type you like here.
+# Note that the first input to the function MUST be x.
 
 
 # ----------------------------- OUTPUT OPTIONS --------------------------------------------
@@ -130,8 +133,8 @@ for fname in args:
     # Create the "Axes", which contains information for the graph
     ax = plt.axes()
 
-    # This creates a line graph, adding a straight line between each point
-    # in the input data file
+    # This creates a line graph, adding a straight line between each point in the input data file
+    # Replace plot with scatter for a scatter graph
     ax.plot(x,y,label='Data')
 
     # Add a line of best fit to the plot, if fit is true

@@ -2,23 +2,36 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-data = pd.read_csv('green.csv')
+# Set font size
+font = {'family' : 'normal',
+        'weight' : 'normal',
+        'size'   : 18}
+plt.rc('font', **font)
 
-etoac = data[data['Solvent']=='EtOAc']
-etoac_yield = etoac['Yield (%)'].values
-etoac_ee = etoac['Enantiomeric Excess (%)'].values
+fig, ax = plt.subplots(2,1,figsize=(8, 10))
 
-cpme = data[data['Solvent']=='CPME']
-cpme_yield = cpme['Yield (%)'].values
-cpme_ee = cpme['Enantiomeric Excess (%)'].values
+fnames = ['Tc.csv','Tm.csv']
+data_type = ['Clearing','Melting']
+anions = ['Br$^−$', 'PF6$^−$', 'BF4$^−$','N(CN)$_2^−$']
+x = np.arange(len(anions))
+axno = 0
+width = 0.25
 
-fig, ax = plt.subplots(1,2)
+for fname in fnames:
+    
+    data = pd.read_csv(fname)
+    labels = data.keys()[1:]
 
-ax[1].scatter(cpme_yield,cpme_ee)
-ax[0].scatter(etoac_yield,etoac_ee)
+    for i in range(3):
+        values = pd.to_numeric(data.iloc[:4,i+1]).values
+        ax[axno].bar(x+width*(i-1),values,width,label=labels[i])
+    
+    ax[axno].set_ylabel(f"{data_type[axno]} Temperature / °C")
+    
+    axno += 1
 
-ax[0].set_xlabel('Yield (%)')
-ax[1].set_xlabel('Yield (%)')
-ax[0].set_title('EtOAc')
-
-plt.savefig('multiplot.png')
+ax[0].set_xticks([],[])
+ax[1].set_xticks(x,anions)
+ax[1].set_xlabel('Anion')
+ax[1].legend(loc=(0.45,0.85))
+plt.savefig('multiplot.png',bbox_inches='tight',dpi=500)

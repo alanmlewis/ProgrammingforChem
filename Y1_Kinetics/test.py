@@ -1,5 +1,5 @@
-necessary_packages=['datetime','pathlib','csv','numpy','sys','os','matplotlib']
-optional_packages=['scipy','pandas', 'serial']
+necessary_packages=['datetime','pathlib','csv','numpy','sys','os','matplotlib','glob','scipy','pandas','inspect']
+optional_packages=['serial','sklearn']
 
 success = True
 for pkg in necessary_packages:

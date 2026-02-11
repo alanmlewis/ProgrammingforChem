@@ -2,6 +2,12 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Set font size
+font = {'family' : 'normal',
+        'weight' : 'normal',
+        'size'   : 16}
+plt.rc('font', **font)
+
 # Read data using pandas, as it contains mixed data types (numbers and strings)
 data = pd.read_csv('green.csv')
 
@@ -23,4 +29,5 @@ plt.bar(['TEA','DIPEA'],[tea_av,dipea_av])
 plt.xlabel('Base')
 plt.ylabel('Yield (%)')
 
-plt.savefig('bar.png')
+# Save the figure. bbox_inches sets the borders automatically, and dpi sets the resolution of the image
+plt.savefig('bar.png',bbox_inches='tight',dpi=500)
