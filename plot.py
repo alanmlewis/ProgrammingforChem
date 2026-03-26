@@ -58,7 +58,7 @@ try:
 	func = eval(func_name)
 	# Since you've provided an acceptable fitting function, we assume you want to fit
 	fit = True
-	suffix = '_'+func_name
+	# suffix = '_'+func_name
 	# Since you've provided an acceptable fitting function, we assume you want to output fitting parameters
 	output = True
 	print(f'A best fit to the data will be calculated using the function \"{func_name}\"')
@@ -68,7 +68,7 @@ except:
 	    print("Since you've requested a fit (fit = True), defaulting to a linear line of best fit.\n")
 	    func_name = "linear"
 	    func = eval(func_name)
-	    suffix = '_'+func_name
+	    # suffix = '_'+func_name
 	else:
 	    pass
 
