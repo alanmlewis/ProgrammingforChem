@@ -17,4 +17,7 @@ for pkg in optional_packages:
     except:
         print(pkg + " not found. This is only needed for advanced problems, and your setup is probably fine.")
 
-if success: print("Success: All required python libraries are present.")
+if success:
+    print("\nSuccess: All required python libraries are present.")
+else:
+    print("\nSome key libraries are missing. You can install them by running the command:\n\tpip install library_name\nin your terminal for each missing library.\n")
