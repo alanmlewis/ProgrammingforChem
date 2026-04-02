@@ -133,6 +133,8 @@ In the course of the workshop, students:
  - Consider a range of methods of displaying a particular dataset, evaluating the advantages and disadvantages of each.
  - Learn how to read the documentation of `matplotlib`.
  - Create scatter plots with error bars, box plots, bar charts and contour plots using a range of sample data from different areas of chemistry.
+ 
+This repository contains example scripts and data for a number of additional types of plots not covered in the workshop, including histograms and pie charts. Students are directed to the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/advanced-graphs) to access these scripts, and encouraged to use the relevant documentation to adapt the simple examples provided for their applications.
 
 ## Photometers (*Year 3, script-based*)
 
