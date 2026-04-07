@@ -11,7 +11,7 @@ authors:
   - name: Annika Ankersen
 #    orcid: 0000-0003-0872-7098
     affiliation: 1
-  - name: David Pugh
+  - name: David S. Pugh
     orcid: 0000-0002-4491-9815
     affiliation: 1
   - name: Alan M. Lewis
@@ -22,7 +22,7 @@ affiliations:
    index: 1
 # - name: Institution 2
 #   index: 2
-date: 4 March 2026
+date: 7 April 2026
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
@@ -35,15 +35,15 @@ bibliography: paper.bib
 
 These educational resources teach undergraduate students a range of chemical concepts using Python programming as a means of exploring chemical data and simulation, and follow the recently introduced "strategy-first" mode of programming instruction [@Lewis2026]. This pedagogical approach begins with code which can be applied to chemical problems students are familiar with from other parts of the undergraduate curriculum, and teaches only the syntax needed to carry out the goals of the workshop. In practice, this involves providing students with pre-written code and asking them to modify and improve subsections of it, without expecting them to understand every line of the provided script, even by the end of the workshop. This allows programming novices to engage with the programming content of the workshop while always working within a familiar chemical context. This helps the students to see the relevance of the programming to their chemical interests, improving student engagement and outcomes.
 
-These materials were developed over the last three years for delivery to all undergraduate chemistry students at the University of York, and all of the materials provided are now regularly delivered as part of the skills modules in each year of study. Some workshops employ Jupyter notebooks, which at York were hosted on Google Colab but could equally be delivered through local Jupyter installations; in these cases the code and instructions are included together in the same document. For other workshops students are provided with plain-text Python scripts and are guided through a series of modifications and improvements using a PowerPoint presentation; both the scripts and presentations are included in this resource. The workshops are outlined later, with a note for each indicating the mode of Python usage.
+These materials were developed over the last three years for delivery to all undergraduate chemistry students at the University of York, and all of the materials provided are now regularly delivered as part of the skills modules in each year of study. Some workshops employ Jupyter notebooks, which at York were hosted on Google Colab but could equally be delivered through local Jupyter installations; in these cases the code and instructions are included together in the same document. For other workshops students are provided with plain-text Python scripts and are guided through a series of modifications and improvements using a PowerPoint presentation; both the scripts and presentations are included in this resource. The workshops are outlined later, with a note for each indicating the mode of Python usage. At the University of York, students' Python skills are not assessed directly, but students are increasingly using the Python learnt in these workshops as a data processing and analysis tool for thier continuous assessments; some examples of this are included in the description of the in the relevant workshop.
 
 # Statement of Need
 
-Programming skills are increasing desired by students and expected by employers, especially amongst STEM graduates. Furthermore, some chemistry concepts can be taught and illustrated through programming workshops in ways which would be impossible the context of a flat lecture or teaching laboratory. Therefore, a number of examples of programming workshops and curricula for chemistry students have been published [@Hirschi2023; @Haraldsrud2023; @Bravenec2023], including in this journal [@Cumby2023; @Stewart2025]. The workshops presented here follow a newly introduced approach to programming instruction called "strategy-first teaching". The advantages of strategy-first teaching are outlined in @Lewis2026, which also highlights the current lack of publicly available teaching resources in that style. This paper aims to provide both off-the-shelf workshops on a range of chemical topics for educators to use and adapt, and to serve as a template of this style of programming instruction for educators to follow to develop their own resources.
+Programming skills are increasing desired by students and expected by employers, especially amongst STEM graduates. Furthermore, some chemistry concepts can be taught and illustrated through programming workshops in ways which would be challenging the context of a flat lecture or teaching laboratory. Therefore, a number of examples of programming workshops and curricula for chemistry students have been published [@Hirschi2023; @Haraldsrud2023; @Bravenec2023], including in this journal [@Cumby2023; @Stewart2025]. The workshops presented here follow a newly introduced approach to programming instruction called "strategy-first teaching". The advantages of strategy-first teaching are outlined in @Lewis2026, which also highlights the current lack of publicly available teaching resources in that style. This paper aims to provide both off-the-shelf workshops on a range of chemical topics for educators to use and adapt, and to serve as a template of this style of programming instruction for educators to follow to develop their own resources.
 
 # Content and Design
 
-The workshops included in this resource cover a wide range of topics, which will be briefly outlined below along with where they are delivered in the York chemistry curriculum. There are many commonalities between the workshops. In each case, students are provided with a piece of code which can be executed immediately, and runs successfully to produce an output which can be interpreted using the students' chemical knowledge. The goal of the workshop is then to modify and improve this code, learning the necessary syntax along the way, to produce a more sophisticated output or analysis, tackle a more complex version of the initial problem, or solve a related but distinct problem. The majority of workshops conclude with an open-ended challenge or extension material, designed to stretch the programming and/or chemical knowledge of students who complete the main tasks of the workshop quickly.
+The workshops included in this resource cover a wide range of topics, which will be briefly outlined below, along with where they are delivered in the York chemistry curriculum. There are many commonalities between the workshops. In each case, students are provided with a piece of code which can be executed immediately, and runs successfully to produce an output which can be interpreted using the students' chemical knowledge. The goal of the workshop is then to adapt this code, learning the necessary syntax along the way, to produce a more sophisticated output or analysis, tackle a more complex version of the initial problem, or solve a related but distinct problem. The majority of workshops conclude with an open-ended challenge or extension material, designed to stretch the programming and/or chemical knowledge of students who complete the main tasks of the workshop quickly.
 
 The workshops are designed to be delivered with support from demonstrating staff. In addition, students are encouraged to engage in peer teaching and learning; this allows students with previous programming experience to support those without that prior knowledge and, thanks to the strategy-first design of the workshops, students with strong chemistry knowledge can also support their peers regardless of their knowledge of Python, which helps avoids peer interactions feeling one-sided.
 
@@ -57,11 +57,13 @@ Students are then guided through modifying the script to complete the following 
 
  - Add appropriate axis labels to the graph.
  - Linearise the absorbance data.
- - Add a linear line of best fit to the plot and output the fit parameters (code is provided to do most of this step).
+ - Add a linear line of best fit to the plot and output the fit parameters (commented code is provided to do most of this step).
  - Process the 5 data files, corresponding to data collected at different temperatures, and collate the resulting fit parameters for each data file.
- - Create an Arrhenius plot from the collated data. The Arrhenius equation is
-    $$ \ln{k} = \ln{A} - \frac{E_a}{RT}; $$
-    students are expected to perform the appropriate data manipulation to create a plot in this form.
+ - Create an Arrhenius plot from the collated data. The Arrhenius equation is:
+    $$ \ln{k} = \ln{A} - \frac{E_a}{RT}. $$
+    Students are expected to perform the appropriate data manipulation to create a plot in this form.
+    
+The Python script introduced in this workshop is available from the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/graphs), and students are encouraged to use this to process data and produce graphs for their formative laboratory reports.
     
 ## Mass Spectrometry Isotope Patterns (*Year 1, script-based*)
 
@@ -69,11 +71,12 @@ Students are provided with three Python files. The first contains a dictionary c
 
 During workshop, students are supported to:
 
- - Add appropriate axis labels to the graph, and scale the peaks on the graph such that the maximum relative abundance is equal to 100%.
+ - Simulate mass spectra for the isotopologues of a molecule of their choicse, adding appropriate axis labels and scaling the peaks on the graph such that the maximum relative abundance is equal to 100%.
  - Add (at least) one element's [isotope abundance data](https://www.chem.ualberta.ca/~massspec/atomic_mass_abund.pdf) to the Python dictionary, and create an mass spectrum for the isotopologues of a molecule containing that element.
  - Differentiate between high and low resolution mass spectrometry, and use the solver to determine the advantages of high resolution data.
  - Try to find a plausible molecule which has an M+1 peak in the spectrum with a relative abundance as close to 20% as possible.
  
+SOMETHING HERE?
 
 ## Atmospheric Chemistry (*Year 2, script-based*)
 
@@ -89,20 +92,22 @@ During the workshop, students:
 
 ## Non-Linear Fitting of Heat Capacities (*Year 2, script-based*)
 
-Students are provided with data files containing the enthalpy of aluminium as a function of temperature; one file covers the range 100-900 K, the second covers the range 0-100 K [@Ditmars1985]. They are also provided with the same script used in the Kinetics workshop described above, which reads data from a `csv` file and produces a plot of the data contained in the first two columns, and contains code to fit a function to the data. The goal of the workshop is to fit a function to the provided data to obtain an expression for the heat capacity as a function of temperature, using the equation:
+Students are provided with data files containing the enthalpy of aluminium as a function of temperature; one file covers the range 100-900 K, the second covers the range 0-100 K [@Ditmars1985]. The workshop uses the same Python script as the Kinetics workshop described above, which reads data from a `csv` file, produces a plot of the data contained in the first two columns, and contains code to fit a function to the data. The goal of the workshop is to fit a function to the provided data to obtain an expression for the heat capacity as a function of temperature, using the equation:
 
 $$ c_p = \frac{dH}{dT} .$$
 
 To do this, students complete the following steps:
 
- - Add a linear line of best to the high-temperature enthalpy data, and use the resulting equation to obtain a (constant) heat capacity.
+ - Plot the high-temperature enthalpy data, adding a linear line of best fit, and use the resulting equation to obtain a (constant) heat capacity.
  - Define a quartic function in Python, and fit the low-temperature enthalpy data using this function to obtain the heat capacity of aluminium as a function of temperature in this range.
  - Define a polynomial function of order 10, and fit the low-temperature enthalpy data to which noise has been added with both the quartic and polynomial function.
  - Explain the resulting root mean squared errors of each fit, and consider which fit is more appropriate for the provided data (overfitting).
+ 
+Students later are required to use non-linear regression to obtain estimates of rate constants and Hammett parameters for a piece of continuous assessment; many students modified the Python script provided in this workshop to complete this assessment.
 
 ## Introduction to Machine Learning (*Year 2, notebook*)
 
-The notebook for this workshop begins with a brief reminder of $\text{p} K_{a}$ values, defined as $$\text{p} K_a = -\log_{10}\left({\frac{[A^-][H^+]}{[HA]}}\right).$$ It then gives an overview of what machine learning is and how it differs from traditional programming, and provides a simple example of a machine learning model using the `scikit-learn` library. The support vector regression (SVR) model uses pre-calculated Morgan fingerprints [@Rogers2010] as input vectors and $\text{p} K_a$ values as targets to predict; the names of the corresponding molecules are also provided.
+The notebook for this workshop begins with a brief reminder of $\text{p} K_{a}$ values, defined as $$\text{p} K_a = -\log_{10}\left({\frac{[A^-][H^+]}{[HA]}}\right).$$ It then gives an overview of what machine learning is and how it differs from traditional programming, and provides a simple example of a machine learning (ML) model using the `scikit-learn` library. The support vector regression (SVR) model uses pre-calculated Morgan fingerprints [@Rogers2010] as input vectors and $\text{p} K_a$ values as targets to predict; the names of the corresponding molecules are also provided.
 
 During the workshop, students:
 
@@ -119,7 +124,7 @@ This workshop is very similar in structure to the Introduction Machine Learning 
 
 This notebook introduces students to Hückel Theory, a very simple electronic structure theory [@Hueckel1931;@Nagaoka2018]. After introducing the assumptions and mathematics of the theory, students are provided with a function which creates a Hückel Hamiltonian matrix for a linear conjugated alkene, and the `numpy` function needed to diagonalise the matrix. The majority of this workshop asks students to manipulate and interpret the `numpy` arrays created by this diagonalisation:
 
- - identify the HOMO and LUMO energies from the list of eigenvalues, and calculate the band gap and total $\pi$ energy of butadiene.
+ - identify the highest occupied and lowest unoccupied molecular orbital energies from the list of eigenvalues, and calculate the band gap and total $\pi$ energy of butadiene.
  - sketch the molecular orbitals described by the molecular orbital coefficients, and use this information justify the most likely site of electrophilic attack in butadiene.
  - use a `for` loop to calculate and plot the total $\pi$ energy and band gap of conjugated alkenes of different lengths.
  - define a function to create the Hückel Hamiltonian for cyclic conjugated molecules, and compare the total $\pi$ energies of cyclic molecules to linear molecules of the same length.
@@ -131,10 +136,10 @@ This workshop serves as part of students' preparation for a short research proje
 In the course of the workshop, students:
 
  - Consider a range of methods of displaying a particular dataset, evaluating the advantages and disadvantages of each.
- - Learn how to read the documentation of `matplotlib`.
+ - Learn how to read and interpret the documentation of `matplotlib`.
  - Create scatter plots with error bars, box plots, bar charts and contour plots using a range of sample data from different areas of chemistry.
  
-This repository contains example scripts and data for a number of additional types of plots not covered in the workshop, including histograms and pie charts. Students are directed to the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/advanced-graphs) to access these scripts, and encouraged to use the relevant documentation to adapt the simple examples provided for their applications.
+This repository contains example scripts and data for a number of additional types of plots not covered in this workshop, including histograms and pie charts. Students are directed to the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/advanced-graphs) to access these scripts, and encouraged to use the relevant documentation to adapt the simple examples provided for their projects.
 
 ## Photometers (*Year 3, script-based*)
 
