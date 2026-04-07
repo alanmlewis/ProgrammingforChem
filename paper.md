@@ -63,7 +63,7 @@ Students are then guided through modifying the script to complete the following 
     $$ \ln{k} = \ln{A} - \frac{E_a}{RT}. $$
     Students are expected to perform the appropriate data manipulation to create a plot in this form.
     
-The Python script introduced in this workshop is available from the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/graphs), and students are encouraged to use this to process data and produce graphs for their formative laboratory reports.
+The Python script introduced in this workshop is available from the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/graphs), and students are encouraged to use this to process data and produce graphs in the analysis of subsequent lab work.
     
 ## Mass Spectrometry Isotope Patterns (*Year 1, script-based*)
 
@@ -76,7 +76,7 @@ During workshop, students are supported to:
  - Differentiate between high and low resolution mass spectrometry, and use the solver to determine the advantages of high resolution data.
  - Try to find a plausible molecule which has an M+1 peak in the spectrum with a relative abundance as close to 20% as possible.
  
-SOMETHING HERE?
+Students subsequently use the isotope pattern prediction script in later taught lab practicals (with a complete dictionary file of isotope abundances) and may also utilise the mass solver script in project work.
 
 ## Atmospheric Chemistry (*Year 2, script-based*)
 
@@ -103,7 +103,7 @@ To do this, students complete the following steps:
  - Define a polynomial function of order 10, and fit the low-temperature enthalpy data to which noise has been added with both the quartic and polynomial function.
  - Explain the resulting root mean squared errors of each fit, and consider which fit is more appropriate for the provided data (overfitting).
  
-Students later are required to use non-linear regression to obtain estimates of rate constants and Hammett parameters for a piece of continuous assessment; many students modified the Python script provided in this workshop to complete this assessment.
+Later in the course, students undertake a lab project which utilises non-linear fitting to determine rate constants which are combined with Hammett parameters to gain insight into a reaction mechanism. Many students modified the Python script provided in this workshop to complete this assessment.
 
 ## Introduction to Machine Learning (*Year 2, notebook*)
 
@@ -139,13 +139,13 @@ In the course of the workshop, students:
  - Learn how to read and interpret the documentation of `matplotlib`.
  - Create scatter plots with error bars, box plots, bar charts and contour plots using a range of sample data from different areas of chemistry.
  
-This repository contains example scripts and data for a number of additional types of plots not covered in this workshop, including histograms and pie charts. Students are directed to the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/advanced-graphs) to access these scripts, and encouraged to use the relevant documentation to adapt the simple examples provided for their projects.
+This repository contains example scripts and data for a number of additional types of plots not covered in this workshop, including histograms and pie charts. Students are directed to the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/advanced-graphs) to access these scripts, and encouraged to use the relevant documentation to adapt the simple examples provided to suit the needs of their projects.
 
 ## Photometers (*Year 3, script-based*)
 
 Unlike other workshops described here, this is a laboratory-based practical session in which students construct a simple photometer using an LED light source and a photodiode detector. Students initially record analogue voltages from the circuit using a multimeter, before adding a hardware interface (Arduino Uno) to provide analogue to digital (A2D) conversion to a computer. Students are introduced to interfacing Python with hardware using PySerial.
 
-Using this photometer, students carry out simple photometric measurements and apply the Beer-Lambert relationship ($A=\varepsilon cl$) to determine the molar absorption coefficient of potassium permanganate solution, from a range of concentrations. Finally, students record kinetic measurements for the dye-bleaching reaction described in the Kinetics workshop above.
+Using this photometer, students carry out simple photometric measurements and apply the Beer-Lambert relationship ($A=\varepsilon cl$) to determine the molar absorption coefficient of potassium permanganate solution, from a range of concentrations. Finally, students record kinetic measurements for a dye-bleaching reaction related to that analysed in the Kinetics workshop above.
 
 # Acknowledgements
 
