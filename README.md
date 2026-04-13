@@ -23,7 +23,9 @@ Students are then guided through modifying the script to complete the following 
  - Add a linear line of best fit to the plot and output the fit parameters (commented code is provided to do most of this step).
  - Process the 5 data files, corresponding to data collected at different temperatures, and collate the resulting fit parameters for each data file.
  - Create an Arrhenius plot from the collated data. The Arrhenius equation is:
+ 
     $$ \ln{k} = \ln{A} - \frac{E_a}{RT}. $$
+    
     Students are expected to perform the appropriate data manipulation to create a plot in this form.
     
 The Python script introduced in this workshop is available from the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/graphs), and students are encouraged to use this to process data and produce graphs in the analysis of subsequent lab work.
@@ -59,7 +61,7 @@ During the workshop, students:
 
 ### Non-Linear Fitting of Heat Capacities (*Year 2, script-based*)
 
-Students are provided with data files containing the enthalpy of aluminium as a function of temperature; one file covers the range 100-900 K, the second covers the range 0-100 K [@Ditmars1985]. The workshop uses the same Python script as the Kinetics workshop described above, which reads data from a `csv` file, produces a plot of the data contained in the first two columns, and contains code to fit a function to the data. The goal of the workshop is to fit a function to the provided data to obtain an expression for the heat capacity as a function of temperature, using the equation:
+Students are provided with data files containing the enthalpy of aluminium as a function of temperature; one file covers the range 100-900 K, the second covers the range 0-100 K. The workshop uses the same Python script as the Kinetics workshop described above, which reads data from a `csv` file, produces a plot of the data contained in the first two columns, and contains code to fit a function to the data. The goal of the workshop is to fit a function to the provided data to obtain an expression for the heat capacity as a function of temperature, using the equation:
 
 $$ c_p = \frac{dH}{dT} .$$
 
@@ -74,7 +76,7 @@ Later in the course, students undertake a lab project which utilises non-linear 
 
 ### Introduction to Machine Learning (*Year 2, notebook*)
 
-The notebook for this workshop begins with a brief reminder of $\text{p} K_{a}$ values, defined as $$\text{p} K_a = -\log_{10}\left({\frac{[A^-][H^+]}{[HA]}}\right).$$ It then gives an overview of what machine learning is and how it differs from traditional programming, and provides a simple example of a machine learning (ML) model using the `scikit-learn` library. The support vector regression (SVR) model uses pre-calculated Morgan fingerprints [@Rogers2010] as input vectors and $\text{p} K_a$ values as targets to predict; the names of the corresponding molecules are also provided.
+The notebook for this workshop begins with a brief reminder of $\text{p} K_{a}$ values, defined as $$\text{p} K_a = -\log_{10}\left({\frac{[A^-][H^+]}{[HA]}}\right).$$ It then gives an overview of what machine learning is and how it differs from traditional programming, and provides a simple example of a machine learning (ML) model using the `scikit-learn` library. The support vector regression (SVR) model uses pre-calculated Morgan fingerprints as input vectors and $\text{p} K_a$ values as targets to predict; the names of the corresponding molecules are also provided.
 
 During the workshop, students:
 
@@ -85,11 +87,11 @@ During the workshop, students:
 
 ### Design of Experiment (*Year 3, notebook*)
 
-This workshop is very similar in structure to the Introduction Machine Learning workshop described above, but applied to a different problem - the design of synthetic experiments. This uses a dataset generated to study a palladium-catalysed cross-coupling reaction using different reagents, ligands, bases and solvents [@Perera2018]. Students follow the same steps as in the Introduction to Machine Learning workshop, and are additionally introduced to the idea of encoding categorical data for use in machine learning applications.
+This workshop is very similar in structure to the Introduction Machine Learning workshop described above, but applied to a different problem - the design of synthetic experiments. This uses a dataset generated to study a palladium-catalysed cross-coupling reaction using different reagents, ligands, bases and solvents. Students follow the same steps as in the Introduction to Machine Learning workshop, and are additionally introduced to the idea of encoding categorical data for use in machine learning applications.
 
 ### Hückel Theory (*Year 3, notebook*)
 
-This notebook introduces students to Hückel Theory, a very simple electronic structure theory [@Hueckel1931;@Nagaoka2018]. After introducing the assumptions and mathematics of the theory, students are provided with a function which creates a Hückel Hamiltonian matrix for a linear conjugated alkene, and the `numpy` function needed to diagonalise the matrix. The majority of this workshop asks students to manipulate and interpret the `numpy` arrays created by this diagonalisation:
+This notebook introduces students to Hückel Theory, a very simple electronic structure theory. After introducing the assumptions and mathematics of the theory, students are provided with a function which creates a Hückel Hamiltonian matrix for a linear conjugated alkene, and the `numpy` function needed to diagonalise the matrix. The majority of this workshop asks students to manipulate and interpret the `numpy` arrays created by this diagonalisation:
 
  - identify the highest occupied and lowest unoccupied molecular orbital energies from the list of eigenvalues, and calculate the band gap and total $\pi$ energy of butadiene.
  - sketch the molecular orbitals described by the molecular orbital coefficients, and use this information justify the most likely site of electrophilic attack in butadiene.
