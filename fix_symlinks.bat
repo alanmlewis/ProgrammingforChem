@@ -6,5 +6,5 @@ echo Configuring Git for Symlinks...
 git config core.symlinks true
 echo Re-linking files...
 git checkout .
-echo Done! If links are still text files, ensure Developer Mode is ON, or run "sudo .\setup.bat".
+echo Done! If links are still text files, please run this script as an administrator.
 pause
