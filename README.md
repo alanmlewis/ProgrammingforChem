@@ -41,6 +41,10 @@ During workshop, students are supported to:
  
 Students subsequently use the isotope pattern prediction script in later taught lab practicals (with a complete dictionary file of isotope abundances) and may also utilise the mass solver script in project work.
 
+### Matrices (*Year 1, notebook*)
+
+This workshop is not strictly strategy-first in design. It aims to teach students some fundamentals about matrices, and is delivered as part of the Maths for Chemists course alongside some pen-and-paper workshops. It illustrates coordinate transformations, matrix multiplication and matrix inversion using Python tools.
+
 ### Atmospheric Chemistry (*Year 2, script-based*)
 
 Students are provided with a dataset containing hourly measurements of three pollutants (ozone, nitric oxide and nitrogen dioxide) taken in the centre of Stoke-on-Trent, UK, between January 2017 and December 2020. They are also provided a Python script which uses the `pandas` library to read the data, select data on a specific date, and plot the concentration of one pollutant against time for this date.
