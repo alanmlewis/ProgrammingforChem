@@ -23,9 +23,9 @@ Students are then guided through modifying the script to complete the following 
  - Add a linear line of best fit to the plot and output the fit parameters (commented code is provided to do most of this step).
  - Process the 5 data files, corresponding to data collected at different temperatures, and collate the resulting fit parameters for each data file.
  - Create an Arrhenius plot from the collated data. The Arrhenius equation is:
- 
-    $$ \ln{k} = \ln{A} - \frac{E_a}{RT}. $$
-    
+    ```math
+    \ln{k} = \ln{A} - \frac{E_a}{RT}.
+    ```
     Students are expected to perform the appropriate data manipulation to create a plot in this form.
     
 The Python script introduced in this workshop is available from the Univeristy of York [Chemistry teaching labs website](https://chemtl.york.ac.uk/data-analysis-reporting/python/graphs), and students are encouraged to use this to process data and produce graphs in the analysis of subsequent lab work.
