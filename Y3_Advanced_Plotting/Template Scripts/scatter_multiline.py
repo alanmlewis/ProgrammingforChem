@@ -7,10 +7,13 @@ font = {'family' : 'normal',
         'size'   : 16}
 plt.rc('font', **font)
 
+# Read the data file using pandas
 protein = pd.read_csv('protein.csv')
+# The x values are the time in hours
+# Pandas using column headings to refer to columns of data
 x = protein['hours']
 
-# Plot each line with errorbars (yerr), adding a cap to the end of the errorbars
+# Plot the concentration of each different protein
 for i in ['Asx','Glx','Leu']:
     plt.scatter(x, protein[i], label=i)
 
