@@ -1,6 +1,8 @@
 name: Draft PDF
 on:
   push:
+    branches:
+      - jose
     paths:
       - paper.md
       - paper.bib

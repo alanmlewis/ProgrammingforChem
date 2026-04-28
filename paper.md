@@ -4,7 +4,7 @@ tags:
   - Python
   - chemistry education
   - kinetics
-  - green chemistry
+  - design of experiment
   - machine learning
   - physical chemistry
 authors:
