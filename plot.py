@@ -75,6 +75,7 @@ except:
 if output:
     fit_data = []
     data_fnames = []
+    uncertainties = []
 
 # The first argument is always the name of the program; we will remove it
 # If the filename is not a csv file, it will be skipped
@@ -119,7 +120,9 @@ for fname in args:
     if fit:
         try:
             fit_params, pcov = curve_fit(func,x,y)
-            if output: fit_data.append(fit_params)
+            if output:
+                fit_data.append(fit_params)
+                uncertainties.append(np.sqrt(np.diag(pcov)))
         except Exception as error:
             print("Could not fit a curve to your data. Check the form of func, and your data. \nThe error from Python is:")
             print(error.args[0])
@@ -176,5 +179,5 @@ for fname in args:
 # Output the parameters of the line of best fit for every file processed
 if output and len(data_fnames)>0:
     params = getfullargspec(func)[0][1:]
-    np.savetxt(output_fname+suffix+'.csv',np.vstack((data_fnames,np.array(fit_data).T)).T,delimiter=',',header='File Name,'+','.join(params),comments='',fmt="%s")
+    np.savetxt(output_fname+suffix+'.csv',np.vstack((data_fnames,np.array(fit_data).T,np.array(uncertainties).T)).T,delimiter=',',header='File Name,'+','.join(params) + ',Uncertainty in ' + ',Uncertainty in '.join(params) , comments='',fmt="%s")
 if nfiles > 0: print('All files processed')
